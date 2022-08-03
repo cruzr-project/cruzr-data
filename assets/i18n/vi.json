@@ -121,46 +121,6 @@
         ]
       },
       {
-        "icon": "presto.jpeg",
-        "name": "Presto Food and Drink",
-        "instruction": "",
-        "fileName": "presto.mp4",
-        "categories": [
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Tea",
-              "Fruit Juice"
-            ]
-          }
-        ]
-      },
-      {
-        "icon": "yenrestaurant.jpeg",
-        "name": "Yen Restaurant",
-        "instruction": "",
-        "fileName": "yenrestaurant.mp4",
-        "categories": [
-          {
-            "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
-          }
-        ]
-      },
-      {
         "icon": "mengallery.jpeg",
         "name": "Men's Gallery",
         "instruction": "",
@@ -597,7 +557,31 @@
             ]
           }
         ]
-      }
+      },
+      {
+        "icon": "yenrestaurant.jpeg",
+        "name": "Yen Restaurant",
+        "instruction": "",
+        "fileName": "yenrestaurant.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Smoothie"
+            ]
+          }
+        ]
+      },
     ]
   }
 }
