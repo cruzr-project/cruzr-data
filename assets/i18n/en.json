@@ -1,0 +1,587 @@
+{
+  "directions": {
+    "navbar.title": "Where you want to go?",
+    "places.group1": [
+      {
+        "icon": "",
+        "name": "Gate 1, 2, 3",
+        "fileName": "gate123.mp4",
+        "instruction": "Go straight to the left 125m, then turn left for another 5m, the door down is on the left."
+      },
+      {
+        "icon": "",
+        "name": "Gate 4, 5",
+        "fileName": "gate45.mp4",
+        "instruction": "Go straight to the left for 40m, then turn right for another 10m, the door down to the gate is on the left."
+      },
+      {
+        "icon": "",
+        "name": "Smoking room",
+        "fileName": "smoking.left.mp4",
+        "instruction": "Go straight to the left 110m, the smoking room is on the left, opposite the Crystal Jade Kitchen."
+      },
+      {
+        "icon": "",
+        "name": "Men's restroom",
+        "fileName": "restroom.left.mp4",
+        "instruction": "Go straight to the left for 60m, the men's restroom is on the left."
+      },
+      {
+        "icon": "",
+        "name": "Women's restroom",
+        "fileName": "restroom.left.mp4",
+        "instruction": "Go straight to the left 45m, the women's restroom is on the left."
+      },
+      {
+        "icon": "",
+        "name": "Sun Coast Lounge",
+        "fileName": "suncoastlounge.mp4",
+        "instruction": "Sun Coast Lounge is located on the left, right next to Crystal Jade Kitchen."
+      }
+    ],
+    "places.group2": [
+      {
+        "icon": "",
+        "name": "Gate 6, 7",
+        "fileName": "gate67.mp4",
+        "instruction": "Go straight to the right 40m, then turn right to go another 10m."
+      },
+      {
+        "icon": "",
+        "name": "Gate 8, 9, 10",
+        "fileName": "gate8910.mp4",
+        "instruction": "Go straight to the right 125m, then turn right to go another 5m."
+      },
+      {
+        "icon": "",
+        "name": "Smoking room",
+        "fileName": "smoking.right.mp4",
+        "instruction": "The smoking room is on the left, opposite Crystal Jade Kitchen or go  straight to the right 110, the smoking room is located on the right, opposite Burger King."
+      },
+      {
+        "icon": "",
+        "name": "Women's restroom",
+        "fileName": "restroom.right.mp4",
+        "instruction": "The women's restroom is on the left or goes straight to the right 45m, the women's restroom is on the right."
+      },
+      {
+        "icon": "",
+        "name": "Men's restroom",
+        "fileName": "restroom.right.mp4",
+        "instruction": "The men's restroom is on the left or go straight to the right 60m, the men's restroom is on the right."
+      },
+      {
+        "icon": "",
+        "name": "Lotus Lounge",
+        "fileName": "lotuslounge.mp4",
+        "instruction": "Go straight to the right 118m, Lotus Lounge is on the left, right next to Burger King."
+      },
+      {
+        "icon": "",
+        "name": "Medical room",
+        "fileName": "medical.mp4",
+        "instruction": "Go straight to the right 120m, then turn left for another 5m."
+      }
+    ]
+  },
+  "shopping": {
+    "navbar.title": "Shopping",
+    "stores": [
+      {
+        "icon": "lottedutyfree.jpeg",
+        "name": "Lotte Duty Free",
+        "instruction": "",
+        "fileName": "lottedutyfree.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "longbeachpearl.jpeg",
+        "name": "Long Beach Pearl",
+        "instruction": "",
+        "fileName": "longbeachpearl.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Pearl"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "mengallery.jpeg",
+        "name": "Men's Gallery",
+        "instruction": "",
+        "fileName": "mengallery.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Clothes and bags"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamsdelight.jpeg",
+        "name": "Vietnam's Delight",
+        "instruction": "",
+        "fileName": "vietnamsdelight.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "19islands.jpeg",
+        "name": "19 islands",
+        "instruction": "",
+        "fileName": "19islands.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "viethouse.jpeg",
+        "name": "Viet House",
+        "instruction": "",
+        "fileName": "viethouse.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "souvenirfoodshop.jpeg",
+        "name": "Souvenir and Special Food Shop",
+        "instruction": "",
+        "fileName": "souvenirfoodshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "relaxinghousespa.jpeg",
+        "name": "Relaxing House Spa",
+        "instruction": "",
+        "fileName": "relaxinghousespa.mp4",
+        "categories": [
+          {
+            "name": "Service",
+            "menu": [
+              "Foot Massage"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "premiermart.jpeg",
+        "name": "Premier Mart",
+        "instruction": "",
+        "fileName": "premiermart.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "madeinvietnam.jpeg",
+        "name": "Made in Vietnam",
+        "instruction": "",
+        "fileName": "madeinvietnam.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "cmcleather.jpeg",
+        "name": "CMC Leather",
+        "instruction": "",
+        "fileName": "cmcleather.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Leather"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "vietmesegiftshop.jpeg",
+        "name": "Vietnamese Gift Shop",
+        "instruction": "",
+        "fileName": "vietmesegiftshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "yenstore.jpeg",
+        "name": "Yen Store",
+        "instruction": "",
+        "fileName": "yenstore.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "lananhshop.jpeg",
+        "name": "Lan Anh Shop",
+        "instruction": "",
+        "fileName": "lananhshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamspecial.jpeg",
+        "name": "Vietnamese Specialities",
+        "instruction": "",
+        "fileName": "vietnamspecial.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "luckygiftshop.jpeg",
+        "name": "Lucky Gift Shop",
+        "instruction": "",
+        "fileName": "luckygiftshop.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "nhatrangspecial.jpeg",
+        "name": "Nha Trang Specialities",
+        "instruction": "",
+        "fileName": "nhatrangspecial.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "tobarosouvenir.jpeg",
+        "name": "Tobaco and Souvenir",
+        "instruction": "",
+        "fileName": "tobarosouvenir.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Tobacco"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "happyshopping.jpeg",
+        "name": "Happy Shopping",
+        "instruction": "",
+        "fileName": "happyshopping.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "food&drink": {
+    "navbar.title": "Food & Drink",
+    "stores": [
+      {
+        "icon": "presto.jpeg",
+        "name": "Presto Food and Drink",
+        "instruction": "",
+        "fileName": "presto.mp4",
+        "categories": [
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Tea",
+              "Fruit Juice"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamfvd.jpeg",
+        "name": "Vietnamese Food & Drink",
+        "instruction": "",
+        "fileName": "vietnamfvd.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "foodanddrink.jpeg",
+        "name": "Food and Drink",
+        "instruction": "",
+        "fileName": "foodanddrink.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "yourvietnam.jpeg",
+        "name": "Your Vietnam",
+        "instruction": "",
+        "fileName": "yourvietnam.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "purogusto.jpeg",
+        "name": "Puro Gusto",
+        "instruction": "",
+        "fileName": "purogusto.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "starcafe.jpeg",
+        "name": "Star Cafe",
+        "instruction": "",
+        "fileName": "starcafe.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "crystaljade.jpeg",
+        "name": "Crystal Jade",
+        "instruction": "",
+        "fileName": "crystaljade.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Chinese Cuisine"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Herbal Tea",
+              "Fruity Nade",
+              "Drinks"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "burgerking.jpeg",
+        "name": "Burger King",
+        "instruction": "",
+        "fileName": "burgerking.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Hamburger"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Drinks",
+              "Coffee"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "yenrestaurant.jpeg",
+        "name": "Yen Restaurant",
+        "instruction": "",
+        "fileName": "yenrestaurant.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Smoothie"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
