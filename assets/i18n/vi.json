@@ -180,28 +180,6 @@
         ]
       },
       {
-        "icon": "vietnamfvd.jpeg",
-        "name": "Vietnamese Food & Drink",
-        "instruction": "",
-        "fileName": "vietnamfvd.mp4",
-        "categories": [
-          {
-            "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice"
-            ]
-          }
-        ]
-      },
-      {
         "icon": "souvenirfoodshop.jpeg",
         "name": "Souvenir and Special Food Shop",
         "instruction": "",
@@ -241,29 +219,6 @@
             "menu": [
               "Souvenir",
               "VietNam Specialities"
-            ]
-          }
-        ]
-      },
-      {
-        "icon": "foodanddrink.jpeg",
-        "name": "Food and Drink",
-        "instruction": "",
-        "fileName": "foodanddrink.mp4",
-        "categories": [
-          {
-            "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
             ]
           }
         ]
@@ -402,6 +357,111 @@
         ]
       },
       {
+        "icon": "happyshopping.jpeg",
+        "name": "Happy Shopping",
+        "instruction": "",
+        "fileName": "happyshopping.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": [
+              "Souvenir",
+              "VietNam Specialities"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "food&drink": {
+    "navbar.title": "Ăn uống",
+    "stores": [
+      {
+        "icon": "presto.jpeg",
+        "name": "Presto Food and Drink",
+        "instruction": "",
+        "fileName": "presto.mp4",
+        "categories": [
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Tea",
+              "Fruit Juice"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "yenrestaurant.jpeg",
+        "name": "Yen Restaurant",
+        "instruction": "",
+        "fileName": "yenrestaurant.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle",
+              "Bread"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Smoothie"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "foodanddrink.jpeg",
+        "name": "Food and Drink",
+        "instruction": "",
+        "fileName": "foodanddrink.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "vietnamfvd.jpeg",
+        "name": "Vietnamese Food & Drink",
+        "instruction": "",
+        "fileName": "vietnamfvd.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice"
+            ]
+          }
+        ]
+      },
+      {
         "icon": "yourvietnam.jpeg",
         "name": "Your Vietnam",
         "instruction": "",
@@ -421,21 +481,6 @@
               "Coffee",
               "Fruit Juice",
               "Tea"
-            ]
-          }
-        ]
-      },
-      {
-        "icon": "happyshopping.jpeg",
-        "name": "Happy Shopping",
-        "instruction": "",
-        "fileName": "happyshopping.mp4",
-        "categories": [
-          {
-            "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
             ]
           }
         ]
@@ -537,51 +582,6 @@
           }
         ]
       }
-    ]
-  },
-  "food&drink": {
-    "navbar.title": "Ăn uống",
-    "stores": [
-      {
-        "icon": "presto.jpeg",
-        "name": "Presto Food and Drink",
-        "instruction": "",
-        "fileName": "presto.mp4",
-        "categories": [
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Tea",
-              "Fruit Juice"
-            ]
-          }
-        ]
-      },
-      {
-        "icon": "yenrestaurant.jpeg",
-        "name": "Yen Restaurant",
-        "instruction": "",
-        "fileName": "yenrestaurant.mp4",
-        "categories": [
-          {
-            "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
-          }
-        ]
-      },
     ]
   }
 }
