@@ -4,36 +4,42 @@
     "places.group1": [
       {
         "icon": "",
+        "direction": "left",
         "name": "Cổng 1, 2, 3",
         "fileName": "gate123.mp4",
         "instruction": "Đi thẳng về phía bên trái 125m, sau đó rẽ trái đi thêm 5m."
       },
       {
         "icon": "",
+        "direction": "left",
         "name": "Cổng 4, 5",
         "fileName": "gate45.mp4",
         "instruction": "Đi thẳng về phía bên trái 40m, sau đó rẽ phải đi thêm 10m."
       },
       {
         "icon": "",
+        "direction": "left",
         "name": "Phòng hút thuốc",
         "fileName": "smoking.left.mp4",
         "instruction": "Đi thẳng về phía bên trái 110m, phòng hút thuốc nằm bên trái, đối diện Crystal Jade Kitchen."
       },
       {
         "icon": "",
+        "direction": "left",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.left.mp4",
         "instruction": "Nhà vệ sinh nam nằm bên trái hoặc đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
       },
       {
         "icon": "",
+        "direction": "left",
         "name": "Nhà vệ sinh nữ",
         "fileName": "restroom.left.mp4",
         "instruction": "Đi thẳng về phía bên trái 45m, nhà vệ sinh nữ nằm bên trái."
       },
       {
         "icon": "",
+        "direction": "left",
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "Đi thẳng về phía bên trái 118m, Sun Coast Lounge nằm bên phải, ngay bên cạnh Crystal Jade Kitchen."
@@ -42,42 +48,49 @@
     "places.group2": [
       {
         "icon": "",
+        "direction": "right",
         "name": "Cổng 6, 7",
         "fileName": "gate67.mp4",
         "instruction": "Đi thẳng về phía bên phải 40m, sau đó rẽ phải đi thêm 10m."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Cổng 8, 9, 10",
         "fileName": "gate8910.mp4",
         "instruction": "Đi thẳng về phía bên phải 125m, sau đó rẽ phải đi thêm 5m."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Phòng hút thuốc",
         "fileName": "smoking.right.mp4",
         "instruction": "Phòng hút thuốc nằm bên trái, đối diện Crystal Jade Kitchen hoặc đi thẳng về phía bên phải 110m, phòng hút thuốc nằm bên phải, đối diện Burger King."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Nhà vệ sinh nữ",
         "fileName": "restroom.right.mp4",
         "instruction": "Nhà vệ sinh nữ nằm bên trái hoặc đi thẳng về phía bên phải 45m, nhà vệ sinh nữ nằm bên phải."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.right.mp4",
         "instruction": "Nhà vệ sinh nam nằm bên trái hoặc đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Lotus Lounge",
         "fileName": "lotuslounge.mp4",
         "instruction": "Đi thẳng về phía bên phải 118m, Lotus Lounge nằm bên trái, ngay bên cạnh Burger King."
       },
       {
         "icon": "",
+        "direction": "right",
         "name": "Phòng y tế",
         "fileName": "medical.mp4",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m."
@@ -89,8 +102,9 @@
     "stores": [
       {
         "icon": "lottedutyfree.jpeg",
+        "direction": "right",
         "name": "Lotte Duty Free",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "lottedutyfree.mp4",
         "categories": [
           {
@@ -108,8 +122,9 @@
       },
       {
         "icon": "longbeachpearl.jpeg",
+        "direction": "left",
         "name": "Long Beach Pearl",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -122,8 +137,9 @@
       },
       {
         "icon": "mengallery.jpeg",
+        "direction": "left",
         "name": "Men's Gallery",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -136,8 +152,9 @@
       },
       {
         "icon": "vietnamsdelight.jpeg",
+        "direction": "left",
         "name": "Vietnam's Delight",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -151,8 +168,9 @@
       },
       {
         "icon": "19islands.jpeg",
+        "direction": "left",
         "name": "19 islands",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -166,8 +184,9 @@
       },
       {
         "icon": "viethouse.jpeg",
+        "direction": "left",
         "name": "Viet House",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -181,8 +200,9 @@
       },
       {
         "icon": "souvenirfoodshop.jpeg",
+        "direction": "left",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -196,8 +216,9 @@
       },
       {
         "icon": "relaxinghousespa.jpeg",
+        "direction": "left",
         "name": "Relaxing House Spa",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -210,8 +231,9 @@
       },
       {
         "icon": "premiermart.jpeg",
+        "direction": "left",
         "name": "Premier Mart",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "premiermart.mp4",
         "categories": [
           {
@@ -225,8 +247,9 @@
       },
       {
         "icon": "madeinvietnam.jpeg",
+        "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -240,8 +263,9 @@
       },
       {
         "icon": "cmcleather.jpeg",
+        "direction": "left",
         "name": "CMC Leather",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "cmcleather.mp4",
         "categories": [
           {
@@ -254,8 +278,9 @@
       },
       {
         "icon": "vietmesegiftshop.jpeg",
+        "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -269,8 +294,9 @@
       },
       {
         "icon": "yenstore.jpeg",
+        "direction": "left",
         "name": "Yen Store",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "yenstore.mp4",
         "categories": [
           {
@@ -284,8 +310,9 @@
       },
       {
         "icon": "lananhshop.jpeg",
+        "direction": "left",
         "name": "Lan Anh Shop",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "lananhshop.mp4",
         "categories": [
           {
@@ -299,8 +326,9 @@
       },
       {
         "icon": "vietnamspecial.jpeg",
+        "direction": "left",
         "name": "Vietnamese Specialities",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
@@ -314,8 +342,9 @@
       },
       {
         "icon": "luckygiftshop.jpeg",
+        "direction": "left",
         "name": "Lucky Gift Shop",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
@@ -329,8 +358,9 @@
       },
       {
         "icon": "nhatrangspecial.jpeg",
+        "direction": "left",
         "name": "Nha Trang Specialities",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
@@ -344,8 +374,9 @@
       },
       {
         "icon": "tobarosouvenir.jpeg",
+        "direction": "left",
         "name": "Tobaco and Souvenir",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "tobarosouvenir.mp4",
         "categories": [
           {
@@ -358,8 +389,9 @@
       },
       {
         "icon": "happyshopping.jpeg",
+        "direction": "left",
         "name": "Happy Shopping",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "happyshopping.mp4",
         "categories": [
           {
@@ -378,8 +410,9 @@
     "stores": [
       {
         "icon": "presto.jpeg",
+        "direction": "left",
         "name": "Presto Food and Drink",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "presto.mp4",
         "categories": [
           {
@@ -394,8 +427,9 @@
       },
       {
         "icon": "yenrestaurant.jpeg",
+        "direction": "left",
         "name": "Yen Restaurant",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
@@ -418,8 +452,9 @@
       },
       {
         "icon": "foodanddrink.jpeg",
+        "direction": "left",
         "name": "Food and Drink",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
@@ -441,8 +476,9 @@
       },
       {
         "icon": "vietnamfvd.jpeg",
+        "direction": "left",
         "name": "Vietnamese Food & Drink",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
@@ -463,8 +499,9 @@
       },
       {
         "icon": "yourvietnam.jpeg",
+        "direction": "left",
         "name": "Your Vietnam",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
@@ -487,8 +524,9 @@
       },
       {
         "icon": "purogusto.jpeg",
+        "direction": "left",
         "name": "Puro Gusto",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "purogusto.mp4",
         "categories": [
           {
@@ -514,8 +552,9 @@
       },
       {
         "icon": "starcafe.jpeg",
+        "direction": "left",
         "name": "Star Cafe",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "starcafe.mp4",
         "categories": [
           {
@@ -541,8 +580,9 @@
       },
       {
         "icon": "crystaljade.jpeg",
+        "direction": "left",
         "name": "Crystal Jade",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "crystaljade.mp4",
         "categories": [
           {
@@ -563,8 +603,9 @@
       },
       {
         "icon": "burgerking.jpeg",
+        "direction": "left",
         "name": "Burger King",
-        "instruction": "",
+        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
         "fileName": "burgerking.mp4",
         "categories": [
           {
