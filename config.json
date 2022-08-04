@@ -4,6 +4,10 @@
     "en.json",
     "vi.json"
   ],
+  "motion": {
+    "left": "52bc35f6e8c9b9eed4356f7c6bbd102c1659515376872",
+    "right": "10d3827ebe3eec6f5db3f0cc6ebac7461659577853097"
+  },
   "images": [
     "presto.jpeg",
     "yenrestaurant.jpeg",
