@@ -28,7 +28,7 @@
         "direction": "left",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.left.mp4",
-        "instruction": "Nhà vệ sinh nam nằm bên trái hoặc đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
+        "instruction": "Đi thẳng về phía bên trái 60m, nhà vệ sinh nam nằm bên trái"
       },
       {
         "icon": "",
@@ -65,21 +65,21 @@
         "direction": "right",
         "name": "Phòng hút thuốc",
         "fileName": "smoking.right.mp4",
-        "instruction": "Phòng hút thuốc nằm bên trái, đối diện Crystal Jade Kitchen hoặc đi thẳng về phía bên phải 110m, phòng hút thuốc nằm bên phải, đối diện Burger King."
+        "instruction": "Đi  thẳng về phía bên phải 110, phòng hút thuốc nằm bên phải, đối diện Burger King."
       },
       {
         "icon": "",
         "direction": "right",
         "name": "Nhà vệ sinh nữ",
         "fileName": "restroom.right.mp4",
-        "instruction": "Nhà vệ sinh nữ nằm bên trái hoặc đi thẳng về phía bên phải 45m, nhà vệ sinh nữ nằm bên phải."
+        "instruction": "Đi thẳng về phía bên phải 45m, nhà vệ sinh nữ nằm bên phải."
       },
       {
         "icon": "",
         "direction": "right",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.right.mp4",
-        "instruction": "Nhà vệ sinh nam nằm bên trái hoặc đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
+        "instruction": "Đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
       },
       {
         "icon": "",

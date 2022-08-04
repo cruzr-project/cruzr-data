@@ -65,21 +65,21 @@
         "direction": "right",
         "name": "Smoking room",
         "fileName": "smoking.right.mp4",
-        "instruction": "The smoking room is on the left, opposite Crystal Jade Kitchen or go  straight to the right 110, the smoking room is located on the right, opposite Burger King."
+        "instruction": "Go straight to the right 110, the smoking room is located on the right, opposite Burger King."
       },
       {
         "icon": "",
         "direction": "right",
         "name": "Women's restroom",
         "fileName": "restroom.right.mp4",
-        "instruction": "The women's restroom is on the left or goes straight to the right 45m, the women's restroom is on the right."
+        "instruction": "Go straight to the right 45m, the women's restroom is on the right."
       },
       {
         "icon": "",
         "direction": "right",
         "name": "Men's restroom",
         "fileName": "restroom.right.mp4",
-        "instruction": "The men's restroom is on the left or go straight to the right 60m, the men's restroom is on the right."
+        "instruction": "Go straight to the right 60m, the men's restroom is on the right."
       },
       {
         "icon": "",
