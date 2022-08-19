@@ -262,7 +262,7 @@
         ]
       },
       {
-        "icon": "cmcleather.jpeg",
+        "icon": "cmcleather.png",
         "direction": "left",
         "name": "CMC Leather",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -293,7 +293,7 @@
         ]
       },
       {
-        "icon": "yenstore.jpeg",
+        "icon": "yenstore.png",
         "direction": "left",
         "name": "Yen Store",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -341,7 +341,7 @@
         ]
       },
       {
-        "icon": "luckygiftshop.jpeg",
+        "icon": "luckygiftshop.png",
         "direction": "left",
         "name": "Lucky Gift Shop",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -373,7 +373,7 @@
         ]
       },
       {
-        "icon": "tobarosouvenir.jpeg",
+        "icon": "tobarosouvenir.jpg",
         "direction": "left",
         "name": "Tobaco and Souvenir",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -388,7 +388,7 @@
         ]
       },
       {
-        "icon": "happyshopping.jpeg",
+        "icon": "nologo.png",
         "direction": "left",
         "name": "Happy Shopping",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -409,7 +409,7 @@
     "navbar.title": "Ăn uống",
     "stores": [
       {
-        "icon": "presto.jpeg",
+        "icon": "presto.png",
         "direction": "left",
         "name": "Presto Food and Drink",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -451,7 +451,7 @@
         ]
       },
       {
-        "icon": "foodanddrink.jpeg",
+        "icon": "nologo.png",
         "direction": "left",
         "name": "Food and Drink",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",

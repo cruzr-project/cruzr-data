@@ -272,7 +272,7 @@
         ]
       },
       {
-        "icon": "cmcleather.jpeg",
+        "icon": "cmcleather.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "CMC Leather",
@@ -305,7 +305,7 @@
         ]
       },
       {
-        "icon": "yenstore.jpeg",
+        "icon": "yenstore.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Yen Store",
@@ -356,7 +356,7 @@
         ]
       },
       {
-        "icon": "luckygiftshop.jpeg",
+        "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lucky Gift Shop",
@@ -390,7 +390,7 @@
         ]
       },
       {
-        "icon": "tobarosouvenir.jpeg",
+        "icon": "tobarosouvenir.jpg",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Tobaco and Souvenir",
@@ -406,7 +406,7 @@
         ]
       },
       {
-        "icon": "happyshopping.jpeg",
+        "icon": "nologo.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Happy Shopping",
@@ -428,7 +428,7 @@
     "navbar.title": "Food & Drink",
     "stores": [
       {
-        "icon": "presto.jpeg",
+        "icon": "presto.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Presto Food and Drink",
@@ -470,7 +470,7 @@
         ]
       },
       {
-        "icon": "foodanddrink.jpeg",
+        "icon": "nologo.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
