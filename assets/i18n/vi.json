@@ -121,7 +121,7 @@
         ]
       },
       {
-        "icon": "longbeachpearl.jpeg",
+        "icon": "longbeachpearl.png",
         "direction": "left",
         "name": "Long Beach Pearl",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -388,7 +388,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "happyshopping.png",
         "direction": "left",
         "name": "Happy Shopping",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",

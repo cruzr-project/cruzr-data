@@ -122,7 +122,7 @@
         ]
       },
       {
-        "icon": "longbeachpearl.jpeg",
+        "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Long Beach Pearl",
@@ -339,7 +339,7 @@
         ]
       },
       {
-        "icon": "vietnamspecial.jpeg",
+        "icon": "nologo.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Specialities",
@@ -406,7 +406,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Happy Shopping",
