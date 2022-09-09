@@ -288,7 +288,7 @@
         ]
       },
       {
-        "icon": "vietmesegiftshop.jpeg",
+        "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
@@ -322,7 +322,7 @@
         ]
       },
       {
-        "icon": "lananhshop.jpeg",
+        "icon": "lananhshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lan Anh Shop",
