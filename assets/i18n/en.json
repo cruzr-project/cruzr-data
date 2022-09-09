@@ -205,7 +205,7 @@
         ]
       },
       {
-        "icon": "souvenirfoodshop.jpeg",
+        "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Souvenir and Special Food Shop",
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "icon": "relaxinghousespa.jpeg",
+        "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Relaxing House Spa",
@@ -238,7 +238,7 @@
         ]
       },
       {
-        "icon": "premiermart.jpeg",
+        "icon": "premiermart.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Premier Mart",
@@ -255,7 +255,7 @@
         ]
       },
       {
-        "icon": "madeinvietnam.jpeg",
+        "icon": "nologo.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",

@@ -1,5 +1,5 @@
 {
-  "version": 1.9,
+  "version": 2.0,
   "languages": [
     "en.json",
     "vi.json"
@@ -16,9 +16,9 @@
     "19islands.jpeg",
     "viethouse.jpeg",
     "vietnamfvd.jpeg",
-    "souvenirfoodshop.jpeg",
-    "relaxinghousespa.jpeg",
-    "premiermart.jpeg",
+    "souvenirfoodshop.png",
+    "relaxinghousespa.png",
+    "premiermart.png",
     "foodanddrink.jpeg",
     "longbeachpearl.png",
     "lottedutyfree.jpeg",
