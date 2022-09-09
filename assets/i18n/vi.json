@@ -102,6 +102,7 @@
     "stores": [
       {
         "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lotte Duty Free",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -122,6 +123,7 @@
       },
       {
         "icon": "longbeachpearl.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Long Beach Pearl",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -137,6 +139,7 @@
       },
       {
         "icon": "mengallery.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Men's Gallery",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -152,6 +155,7 @@
       },
       {
         "icon": "vietnamsdelight.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnam's Delight",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -168,6 +172,7 @@
       },
       {
         "icon": "19islands.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "19 islands",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -184,6 +189,7 @@
       },
       {
         "icon": "viethouse.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -200,6 +206,7 @@
       },
       {
         "icon": "souvenirfoodshop.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Souvenir and Special Food Shop",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -216,6 +223,7 @@
       },
       {
         "icon": "relaxinghousespa.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Relaxing House Spa",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -231,6 +239,7 @@
       },
       {
         "icon": "premiermart.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Premier Mart",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -247,6 +256,7 @@
       },
       {
         "icon": "madeinvietnam.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -263,6 +273,7 @@
       },
       {
         "icon": "cmcleather.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "CMC Leather",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -278,6 +289,7 @@
       },
       {
         "icon": "vietmesegiftshop.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -294,6 +306,7 @@
       },
       {
         "icon": "yenstore.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Yen Store",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -310,6 +323,7 @@
       },
       {
         "icon": "lananhshop.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lan Anh Shop",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -325,7 +339,8 @@
         ]
       },
       {
-        "icon": "vietnamspecial.jpeg",
+        "icon": "nologo.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Specialities",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -342,6 +357,7 @@
       },
       {
         "icon": "luckygiftshop.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lucky Gift Shop",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -357,7 +373,8 @@
         ]
       },
       {
-        "icon": "nhatrangspecial.jpeg",
+        "icon": "nologo.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -374,6 +391,7 @@
       },
       {
         "icon": "tobarosouvenir.jpg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Tobaco and Souvenir",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -389,6 +407,7 @@
       },
       {
         "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Happy Shopping",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -410,6 +429,7 @@
     "stores": [
       {
         "icon": "presto.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Presto Food and Drink",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -427,6 +447,7 @@
       },
       {
         "icon": "yenrestaurant.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Yen Restaurant",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -452,6 +473,7 @@
       },
       {
         "icon": "nologo.png",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -476,6 +498,7 @@
       },
       {
         "icon": "vietnamfvd.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Food & Drink",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -499,6 +522,7 @@
       },
       {
         "icon": "yourvietnam.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -524,6 +548,7 @@
       },
       {
         "icon": "purogusto.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Puro Gusto",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -552,6 +577,7 @@
       },
       {
         "icon": "starcafe.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Star Cafe",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -580,6 +606,7 @@
       },
       {
         "icon": "crystaljade.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Crystal Jade",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
@@ -603,6 +630,7 @@
       },
       {
         "icon": "burgerking.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Burger King",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m.",
