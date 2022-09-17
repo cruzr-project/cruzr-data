@@ -106,7 +106,7 @@
         "direction": "",
         "name": "Lotte Duty Free – Tobacco, Liquid & Cosmetic",
         "instruction": "Go 6 meters straight behind.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
@@ -127,7 +127,7 @@
         "direction": "right",
         "name": "Lotte Duty Free – Fashion",
         "instruction": "Turn right, continue straight for 30 meters, and the store is on the left.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
@@ -148,7 +148,7 @@
         "direction": "left",
         "name": "Lotte Duty Free – Watch & Jewelry",
         "instruction": "Turn left, continue straight for 30 meters, and the store is on the right.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
             "name": "Brand Stuff",

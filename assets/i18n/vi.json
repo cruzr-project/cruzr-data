@@ -106,7 +106,7 @@
         "direction": "",
         "name": "Lotte Duty Free – Mỹ phẩm",
         "instruction": "Phía sau, đi thẳng 6m.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
@@ -127,7 +127,7 @@
         "direction": "right",
         "name": "Lotte Duty Free – Thời trang",
         "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên trái.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
@@ -148,7 +148,7 @@
         "direction": "left",
         "name": "Lotte Duty Free – Đồng hồ & Trang sức",
         "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên phải.",
-        "fileName": "lottedutyfree.mp4",
+        "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
