@@ -469,7 +469,8 @@
         "direction": "left",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
         "fileName": "medical.mp4",
-        "instruction": "Turn right, go straight 40m, turn right, go further 7m, right hand side."
+        "instruction": "Turn right, go straight 40m, turn right, go further 7m, right hand side.",
+        "categories": []
       }
     ]
   },

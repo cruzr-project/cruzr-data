@@ -469,7 +469,8 @@
         "direction": "left",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
         "fileName": "medical.mp4",
-        "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải."
+        "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải.",
+        "categories": []
       }
     ]
   },
