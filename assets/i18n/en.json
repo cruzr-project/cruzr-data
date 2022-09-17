@@ -103,9 +103,51 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
+        "direction": "",
+        "name": "Lotte Duty Free – Tobacco, Liquid & Cosmetic",
+        "instruction": "Go 6 meters straight behind.",
+        "fileName": "lottedutyfree.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Lotte Duty Free",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "name": "Lotte Duty Free – Fashion",
+        "instruction": "Turn right, continue straight for 30 meters, and the store is on the left.",
+        "fileName": "lottedutyfree.mp4",
+        "categories": [
+          {
+            "name": "Brand Stuff",
+            "menu": [
+              "Cosmetic",
+              "PFM",
+              "Liquor",
+              "Tobacco",
+              "Jewellery",
+              "Watch"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "lottedutyfree.jpeg",
+        "background": "bgairport.jpeg",
+        "direction": "left",
+        "name": "Lotte Duty Free – Watch & Jewelry",
+        "instruction": "Turn left, continue straight for 30 meters, and the store is on the right.",
         "fileName": "lottedutyfree.mp4",
         "categories": [
           {
@@ -124,9 +166,9 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 65m; the shop on the left.",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -140,9 +182,9 @@
       {
         "icon": "mengallery.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Men's Gallery",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, proceed 130 meters straight, turn left, proceed 5 meters, and exit the elevator.",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -156,9 +198,9 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, straight for 50 meters, and the store will be on your right or turn left, straight for 50 meters, and the store will be on your left.",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -173,9 +215,9 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "19 islands",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 40m, turn right, go further 7m, go down the stairs, go 30m more.",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -192,7 +234,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight for 40m, turn left for another 7m, go down the stairs, go 30m more.",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -207,9 +249,9 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 50m, the shop is on the left.",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -224,9 +266,9 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight for 40m, then turn right, go straight for another 10m.",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -240,9 +282,9 @@
       {
         "icon": "premiermart.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Premier Mart",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 75m, the shop is on the right.",
         "fileName": "premiermart.mp4",
         "categories": [
           {
@@ -259,7 +301,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight 130m, the shop is on the left.",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -274,9 +316,9 @@
       {
         "icon": "cmcleather.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "CMC Leather",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 130m, turn left, go 5m more, get off the elevator.",
         "fileName": "cmcleather.mp4",
         "categories": [
           {
@@ -292,7 +334,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 55m, the shop is on the left.",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -307,9 +349,9 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Yen Store",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 85m, the store is on the right or Turn left, go straight 85m, the store is on the left.",
         "fileName": "yenstore.mp4",
         "categories": [
           {
@@ -326,7 +368,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lan Anh Shop",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the left, go straight 65m, the shop on the right.",
         "fileName": "lananhshop.mp4",
         "categories": [
           {
@@ -341,9 +383,9 @@
       {
         "icon": "nologo.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Vietnamese Specialities",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 130m, turn left, go 5m more, get off the elevator.",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
@@ -358,9 +400,9 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Lucky Gift Shop",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 65m, the store is on the right - or - Turn left, go straight 65m, the store is on the left.",
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
@@ -377,7 +419,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight 55m, the shop is on the right.",
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
@@ -394,7 +436,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Tobaco and Souvenir",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight 50m, the shop is on the right.",
         "fileName": "tobarosouvenir.mp4",
         "categories": [
           {
@@ -408,9 +450,9 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Happy Shopping",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn right, go straight 130m, turn left, go 5m, get off the elevator.",
         "fileName": "happyshopping.mp4",
         "categories": [
           {
@@ -421,6 +463,13 @@
             ]
           }
         ]
+      },
+      {
+        "icon": "vietinbank.png",
+        "direction": "left",
+        "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
+        "fileName": "medical.mp4",
+        "instruction": "Turn right, go straight 40m, turn right, go further 7m, right hand side."
       }
     ]
   },
@@ -428,11 +477,34 @@
     "navbar.title": "Food & Drink",
     "stores": [
       {
-        "icon": "presto.png",
+        "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
         "direction": "left",
+        "name": "Burger King",
+        "instruction": "Turn left, go straight 100m, the shop is on the left.",
+        "fileName": "burgerking.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Hamburger"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Drinks",
+              "Coffee"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "presto.png",
+        "background": "bgairport.jpeg",
+        "direction": "right",
         "name": "Presto Food and Drink",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 105m, the shop on the left.",
         "fileName": "presto.mp4",
         "categories": [
           {
@@ -446,25 +518,27 @@
         ]
       },
       {
-        "icon": "vietnamfvd.jpeg",
+        "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
-        "name": "Vietnamese Food & Drink",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
-        "fileName": "vietnamfvd.mp4",
+        "direction": "right",
+        "name": "Yen Restaurant",
+        "instruction": "On the right, go straight 130m, the shop on the right.",
+        "fileName": "yenrestaurant.mp4",
         "categories": [
           {
             "name": "Foods",
             "menu": [
               "Pho",
-              "Noodle"
+              "Noodle",
+              "Bread"
             ]
           },
           {
             "name": "Beverage",
             "menu": [
               "Coffee",
-              "Fruit Juice"
+              "Fruit Juice",
+              "Smoothie"
             ]
           }
         ]
@@ -474,7 +548,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight 105m, the shop is on the right.",
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
@@ -495,11 +569,35 @@
         ]
       },
       {
+        "icon": "vietnamfvd.jpeg",
+        "background": "bgairport.jpeg",
+        "direction": "left",
+        "name": "Vietnamese Food & Drink",
+        "instruction": "Turn left, go straight 130m, the shop is on the left.",
+        "fileName": "vietnamfvd.mp4",
+        "categories": [
+          {
+            "name": "Foods",
+            "menu": [
+              "Pho",
+              "Noodle"
+            ]
+          },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice"
+            ]
+          }
+        ]
+      },
+      {
         "icon": "yourvietnam.jpeg",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
@@ -525,7 +623,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Puro Gusto",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "Turn left, go straight 100m, the shop is on the right.",
         "fileName": "purogusto.mp4",
         "categories": [
           {
@@ -552,9 +650,9 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Star Cafe",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 100m, the shop on the left.",
         "fileName": "starcafe.mp4",
         "categories": [
           {
@@ -581,9 +679,9 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "direction": "right",
         "name": "Crystal Jade",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
+        "instruction": "On the right, go straight 100m, the shop on the right.",
         "fileName": "crystaljade.mp4",
         "categories": [
           {
@@ -603,51 +701,16 @@
         ]
       },
       {
-        "icon": "burgerking.jpeg",
+        "icon": "tahaka.png",
         "background": "bgairport.jpeg",
         "direction": "left",
-        "name": "Burger King",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
-        "fileName": "burgerking.mp4",
+        "name": "Taha-ka",
+        "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
+        "fileName": "tahaka.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Hamburger"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Drinks",
-              "Coffee"
-            ]
-          }
-        ]
-      },
-      {
-        "icon": "yenrestaurant.jpeg",
-        "background": "bgairport.jpeg",
-        "direction": "left",
-        "name": "Yen Restaurant",
-        "instruction": "Go straight to the right 120m, then turn left for another 5m.",
-        "fileName": "yenrestaurant.mp4",
-        "categories": [
-          {
-            "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
-          },
-          {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
+            "menu": []
           }
         ]
       }

@@ -38,7 +38,9 @@
     "crystaljade.jpeg",
     "burgerking.jpeg",
     "bgairport.jpeg",
-    "nologo.png"
+    "nologo.png",
+    "vietinbank.png",
+    "tahaka.png"
   ],
   "videos": [
     "gate123.mp4",
@@ -52,7 +54,9 @@
     "medical.mp4",
     "lotuslounge.mp4",
     "suncoastlounge.mp4",
-    "lottedutyfree.mp4",
+    "lottedutyfree.behind.mp4",
+    "lottedutyfree.left.mp4",
+    "lottedutyfree.right.mp4",
     "longbeachpearl.mp4",
     "presto.mp4",
     "yenrestaurant.mp4",
@@ -79,6 +83,8 @@
     "purogusto.mp4",
     "starcafe.mp4",
     "crystaljade.mp4",
-    "burgerking.mp4"
+    "burgerking.mp4",
+    "vietinbank.mp4",
+    "tahaka.mp4"
   ]
 }
