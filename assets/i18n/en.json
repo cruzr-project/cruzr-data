@@ -297,7 +297,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
@@ -381,7 +381,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnamese Specialities",
@@ -415,7 +415,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
@@ -545,7 +545,7 @@
         ]
       },
       {
-        "icon": "nologo.png",
+        "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
@@ -570,7 +570,7 @@
         ]
       },
       {
-        "icon": "vietnamfvd.jpeg",
+        "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Food & Drink",
@@ -594,7 +594,7 @@
         ]
       },
       {
-        "icon": "yourvietnam.jpeg",
+        "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
