@@ -1,11 +1,11 @@
 {
-  "version": 2.7,
+  "version": 2.8,
   "languages": [
     "en.json",
     "vi.json"
   ],
   "motion": {
-    "left": "d05c720e930cfde358072039ed4fc4c81659578180934",
+    "left": "10d3827ebe3eec6f5db3f0cc6ebac7461664174792576",
     "right": "d05c720e930cfde358072039ed4fc4c81664174779607"
   },
   "images": [
