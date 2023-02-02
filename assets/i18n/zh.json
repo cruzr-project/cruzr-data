@@ -1,99 +1,99 @@
 {
   "directions": {
-    "navbar.title": "Bạn muốn đến đâu?",
+    "navbar.title": "你想去哪里？",
     "places.group1": [
       {
         "icon": "",
         "direction": "left",
-        "name": "Cổng 1, 2, 3",
+        "name": "1-2-3 门",
         "fileName": "gate123.mp4",
-        "instruction": "Đi thẳng về phía bên trái 125m, sau đó rẽ trái đi thêm 5m."
+        "instruction": "往左直走125米，然後左轉再走 5米。"
       },
       {
         "icon": "",
         "direction": "left",
-        "name": "Cổng 4, 5",
+        "name": "4-5 门",
         "fileName": "gate45.mp4",
-        "instruction": "Đi thẳng về phía bên trái 40m, sau đó rẽ phải đi thêm 10m."
+        "instruction": "往左直走40米，然後右轉再走10米。"
       },
       {
         "icon": "",
         "direction": "left",
-        "name": "Phòng hút thuốc",
+        "name": "吸烟室",
         "fileName": "smoking.left.mp4",
-        "instruction": "Đi thẳng về phía bên trái 110m, phòng hút thuốc nằm bên trái, đối diện Crystal Jade Kitchen."
+        "instruction": "往左走110米，吸烟室在左边，对面是Crystal Jade Kitchen"
       },
       {
         "icon": "",
         "direction": "left",
-        "name": "Nhà vệ sinh nam",
+        "name": "男厕所",
         "fileName": "restroom.left.mp4",
-        "instruction": "Đi thẳng về phía bên trái 60m, nhà vệ sinh nam nằm bên trái"
+        "instruction": "直行左側60米，男廁位於左側"
       },
       {
         "icon": "",
         "direction": "left",
-        "name": "Nhà vệ sinh nữ",
+        "name": "女厕所",
         "fileName": "restroom.left.mp4",
-        "instruction": "Đi thẳng về phía bên trái 45m, nhà vệ sinh nữ nằm bên trái."
+        "instruction": "直行左側45米，女廁位於左側"
       },
       {
         "icon": "",
         "direction": "left",
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
-        "instruction": "Đi thẳng về phía bên trái 118m, Sun Coast Lounge nằm bên phải, ngay bên cạnh Crystal Jade Kitchen."
+        "instruction": "向右直走118m，Sun Coast Lounge 就在右边，在Crystal Jade Kitchen的旁边。"
       }
     ],
     "places.group2": [
       {
         "icon": "",
         "direction": "right",
-        "name": "Cổng 6, 7",
+        "name": "6-7门",
         "fileName": "gate67.mp4",
-        "instruction": "Đi thẳng về phía bên phải 40m, sau đó rẽ phải đi thêm 10m."
+        "instruction": "往右直走40米，然後右轉再走10米。"
       },
       {
         "icon": "",
         "direction": "right",
-        "name": "Cổng 8, 9, 10",
+        "name": "8-9-10门",
         "fileName": "gate8910.mp4",
-        "instruction": "Đi thẳng về phía bên phải 125m, sau đó rẽ phải đi thêm 5m."
+        "instruction": "往右直走125米，然後右轉再走5米。"
       },
       {
         "icon": "",
         "direction": "right",
-        "name": "Phòng hút thuốc",
+        "name": "吸烟室",
         "fileName": "smoking.right.mp4",
-        "instruction": "Đi  thẳng về phía bên phải 110, phòng hút thuốc nằm bên phải, đối diện Burger King."
+        "instruction": "者往右走110米，吸烟室在右边，对面是Burger King。"
       },
       {
         "icon": "",
         "direction": "right",
-        "name": "Nhà vệ sinh nữ",
+        "name": "女厕所",
         "fileName": "restroom.right.mp4",
-        "instruction": "Đi thẳng về phía bên phải 45m, nhà vệ sinh nữ nằm bên phải."
+        "instruction": "往右直走45米，女廁位於右側"
       },
       {
         "icon": "",
         "direction": "right",
-        "name": "Nhà vệ sinh nam",
+        "name": "男厕所",
         "fileName": "restroom.right.mp4",
-        "instruction": "Đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
+        "instruction": "位於左側或往右直走60米，男廁位於右側。"
       },
       {
         "icon": "",
         "direction": "right",
         "name": "Lotus Lounge",
         "fileName": "lotuslounge.mp4",
-        "instruction": "Đi thẳng về phía bên phải 118m, Lotus Lounge nằm bên trái, ngay bên cạnh Burger King."
+        "instruction": "向右直走118m，Lotus Lounge 就在左边，Burger King 旁边。"
       },
       {
         "icon": "",
         "direction": "right",
-        "name": "Phòng y tế",
+        "name": "卫生部门",
         "fileName": "medical.mp4",
-        "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m."
+        "instruction": "往右直走120米，然後左轉再走5米。"
       }
     ]
   },
@@ -104,8 +104,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "",
-        "name": "Lotte Duty Free – Mỹ phẩm",
-        "instruction": "Phía sau, đi thẳng 6m.",
+        "name": "Lotte Duty Free – Tobacco, Liquid&Cosmetic",
+        "instruction": "後面，直走6米",
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
@@ -125,8 +125,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Lotte Duty Free – Thời trang",
-        "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên trái.",
+        "name": "Lotte Duty Free – Fashion",
+        "instruction": "右轉，直行30米，商店在左邊",
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
@@ -146,8 +146,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "left",
-        "name": "Lotte Duty Free – Đồng hồ & Trang sức",
-        "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên phải.",
+        "name": "Lotte Duty Free – 手表和珠宝",
+        "instruction": "左轉，直行30米，商店位於右側",
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
@@ -168,7 +168,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "Bên phải, đi thẳng 65m, cửa hàng bên tay trái.",
+        "instruction": "右邊，直走65米，商店位於左邊",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -184,7 +184,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Men's Gallery",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -200,7 +200,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái.",
+        "instruction": "右轉，直行50米，商店位於右側或左轉，直行50米，商店位於左側。",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -217,7 +217,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "19 islands",
-        "instruction": "Rẽ phải, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
+        "instruction": "右轉，直行40米，右轉，再走7米，下樓梯，再走30米。",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -234,7 +234,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "Rẽ trái, đi thẳng 40m, rẽ trái đi thêm 7m, đi xuống cầu thang, đi thêm 30m.",
+        "instruction": "左轉，直行40米，左轉再走7米，下樓梯，再走30米。",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -251,7 +251,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái.",
+        "instruction": "右轉，直行50米，商店位於左邊。",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -268,7 +268,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ  phải, đi thẳng thêm 10m.",
+        "instruction": "右轉，直行40米，然後右轉，再直行10米。",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -284,7 +284,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Premier Mart",
-        "instruction": "Rẽ phải, đi thẳng 75m, cửa hàng nằm bên phải.",
+        "instruction": "右轉，直行75米，商店位於右側。",
         "fileName": "premiermart.mp4",
         "categories": [
           {
@@ -301,7 +301,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
+        "instruction": "左轉，直行130米，商店位於左邊。",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -318,7 +318,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "CMC Leather",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
         "fileName": "cmcleather.mp4",
         "categories": [
           {
@@ -334,7 +334,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "Rẽ phải, đi thẳng 55m, cửa hàng nằm bên trái.",
+        "instruction": "右轉，直行55米，商店位於左邊。",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -351,7 +351,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Store",
-        "instruction": "Rẽ phải, đi thẳng 85m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 85m, cửa hàng nằm bên trái.",
+        "instruction": "右轉，直行85米，商店位於右側或左轉，直行85米，商店位於左側。",
         "fileName": "yenstore.mp4",
         "categories": [
           {
@@ -368,7 +368,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lan Anh Shop",
-        "instruction": "Bên trái, đi thẳng 65m, cửa hàng bên tay phải.",
+        "instruction": "左邊，直走65米，右邊的商店。",
         "fileName": "lananhshop.mp4",
         "categories": [
           {
@@ -385,7 +385,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnamese Specialities",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
@@ -402,7 +402,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lucky Gift Shop",
-        "instruction": "Rẽ phải, đi thẳng 65m, cửa hàng nằm bên phải - hoặc - Rẽ trái, đi thẳng 65m, cửa hàng nằm bên trái.",
+        "instruction": "右轉，直行65米，商店位於右側 -或- 左轉，直行65米，商店位於左側。",
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
@@ -419,7 +419,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
-        "instruction": "Rẽ trái, đi thẳng 55m, cửa hàng nằm bên phải.",
+        "instruction": "左轉，直行55米，商店位於右側。",
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
@@ -436,7 +436,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Tobaco and Souvenir",
-        "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
+        "instruction": "左轉，直行50米，商店位於右側。",
         "fileName": "tobarosouvenir.mp4",
         "categories": [
           {
@@ -452,7 +452,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Happy Shopping",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy",
+        "instruction": "右邊，直行130米，左轉，再走5米，下電梯",
         "fileName": "happyshopping.mp4",
         "categories": [
           {
@@ -467,9 +467,9 @@
       {
         "icon": "vietinbank.png",
         "direction": "left",
-        "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
+        "name": "增值税柜台 - Vietinbank",
         "fileName": "medical.mp4",
-        "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải.",
+        "instruction": "右轉，直行40米，右轉，再走7米，右手邊。",
         "categories": []
       }
     ]
@@ -482,7 +482,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Burger King",
-        "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên trái.",
+        "instruction": "左轉，直行100米，商店在左邊。",
         "fileName": "burgerking.mp4",
         "categories": [
           {
@@ -505,7 +505,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Presto Food and Drink",
-        "instruction": "Bên phải, đi thẳng 105m, cửa hàng bên tay trái.",
+        "instruction": "右邊，直行105米，店在左手邊。",
         "fileName": "presto.mp4",
         "categories": [
           {
@@ -523,7 +523,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Restaurant",
-        "instruction": "Bên phải, đi thẳng 130m, cửa hàng bên tay phải.",
+        "instruction": "右邊，直走130米，商店位於右邊。",
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
@@ -549,7 +549,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
-        "instruction": "Rẽ trái, đi thẳng 105m, cửa hàng nằm bên phải.",
+        "instruction": "左轉，直行105米，商店位於右側。",
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
@@ -574,7 +574,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Food & Drink",
-        "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
+        "instruction": "左轉，直行130米，商店位於左邊。",
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
@@ -598,7 +598,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
-        "instruction": "Rẽ trái, đi thẳng 130m, rẽ phải đi thêm 5m, xuống cầu thang.",
+        "instruction": "左轉，直行130米，右轉再走5米，下樓梯。",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
@@ -624,7 +624,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Puro Gusto",
-        "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên phải.",
+        "instruction": "左轉，直行100米，商店位於右側。",
         "fileName": "purogusto.mp4",
         "categories": [
           {
@@ -653,7 +653,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Star Cafe",
-        "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay trái.",
+        "instruction": "右邊，直走100米，商店在左手邊。",
         "fileName": "starcafe.mp4",
         "categories": [
           {
@@ -682,7 +682,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Crystal Jade",
-        "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay phải.",
+        "instruction": "右邊，直走100米，商店位於右邊。",
         "fileName": "crystaljade.mp4",
         "categories": [
           {
@@ -706,7 +706,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Taha-ka",
-        "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
+        "instruction": "左轉，直行130米，右轉再走5米，下樓梯。",
         "fileName": "tahaka.mp4",
         "categories": [
           {
