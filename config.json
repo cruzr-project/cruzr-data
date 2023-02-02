@@ -2,7 +2,8 @@
   "version": 3.0,
   "languages": [
     "en.json",
-    "vi.json"
+    "vi.json",
+    "zh.json"
   ],
   "motion": {
     "right": "10d3827ebe3eec6f5db3f0cc6ebac7461664174792576",
