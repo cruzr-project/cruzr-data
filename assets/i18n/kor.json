@@ -1,0 +1,720 @@
+{
+    "directions": {
+        "navbar.title": "어디로 가시겠습니까?",
+        "places.group1": [
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "1, 2, 3번 문",
+                "fileName": "gate123.mp4",
+                "instruction": "왼쪽으로 125m 계속 가세요. 그리고 왼쪽으로 5m 더 가세요."
+            },
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "4, 5번 문",
+                "fileName": "gate45.mp4",
+                "instruction": "왼쪽으로 40m 계속 가세요. 그리고 오른쪽으로 10m 더 가세요."
+            },
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "흡연실",
+                "fileName": "smoking.left.mp4",
+                "instruction": "왼쪽으로 110m 계속 가세요. 흡연실은 Crystal Jade Kitchen 맞은편 왼쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "남자 화장실",
+                "fileName": "restroom.left.mp4",
+                "instruction": "왼쪽으로 60m 계속 가세요. 남자 화장실은 왼쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "여자 화장실",
+                "fileName": "restroom.left.mp4",
+                "instruction": "왼쪽으로 45m 계속 가세요. 여자 화장실은 왼쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "left",
+                "name": "Sun Coast Lounge",
+                "fileName": "suncoastlounge.mp4",
+                "instruction": "왼쪽으로 118m 계속 가세요. Sun Coast Lounge는 Crystal Jade Kitchen 옆 왼쪽에 있습니다."
+            }
+        ],
+        "places.group2": [
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "6, 7번 문",
+                "fileName": "gate67.mp4",
+                "instruction": "오른쪽으로 40m 계속 가세요. 그리고 오른쪽으로 10m 더 가세요."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "8, 9, 10번 문",
+                "fileName": "gate8910.mp4",
+                "instruction": "오른쪽으로 125m 계속 가세요. 그리고 오른쪽으로 5m 더 가세요."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "흡연실",
+                "fileName": "smoking.right.mp4",
+                "instruction": "오른쪽으로 110m 계속 가세요. 흡연실은 Burger King 맞은편 오른쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "여자 화장실",
+                "fileName": "restroom.right.mp4",
+                "instruction": "오른쪽으로 45m 계속 가세요. 여자 화장실은 오른쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "남자 화장실",
+                "fileName": "restroom.right.mp4",
+                "instruction": "오른쪽으로 60m 계속 가세요. 남자 화장실은 오른쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "Lotus Lounge",
+                "fileName": "lotuslounge.mp4",
+                "instruction": "오른쪽으로 118m 계속 가세요. Lotus Lounge는 Burger King 옆 왼쪽에 있습니다."
+            },
+            {
+                "icon": "",
+                "direction": "right",
+                "name": "응급실",
+                "fileName": "medical.mp4",
+                "instruction": "오른쪽으로 120m 계속 가세요. 그리고 왼쪽으로 5m 더 가세요."
+            }
+        ]
+    },
+    "shopping": {
+        "navbar.title": "Shopping",
+        "stores": [
+            {
+                "icon": "lottedutyfree.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "",
+                "name": "Lotte Duty Free – Mỹ phẩm",
+                "instruction": "Phía sau, đi thẳng 6m.",
+                "fileName": "lottedutyfree.behind.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Cosmetic",
+                            "PFM",
+                            "Liquor",
+                            "Tobacco",
+                            "Jewellery",
+                            "Watch"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "lottedutyfree.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Lotte Duty Free – Thời trang",
+                "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên trái.",
+                "fileName": "lottedutyfree.right.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Cosmetic",
+                            "PFM",
+                            "Liquor",
+                            "Tobacco",
+                            "Jewellery",
+                            "Watch"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "lottedutyfree.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Lotte Duty Free – Đồng hồ & Trang sức",
+                "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên phải.",
+                "fileName": "lottedutyfree.left.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Cosmetic",
+                            "PFM",
+                            "Liquor",
+                            "Tobacco",
+                            "Jewellery",
+                            "Watch"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "longbeachpearl.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Long Beach Pearl",
+                "instruction": "Bên phải, đi thẳng 65m, cửa hàng bên tay trái.",
+                "fileName": "longbeachpearl.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Pearl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "mengallery.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Men's Gallery",
+                "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+                "fileName": "mengallery.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Clothes and bags"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "vietnamsdelight.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Vietnam's Delight",
+                "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái.",
+                "fileName": "vietnamsdelight.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "19islands.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "19 islands",
+                "instruction": "Rẽ phải, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
+                "fileName": "19islands.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "viethouse.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Viet House",
+                "instruction": "Rẽ trái, đi thẳng 40m, rẽ trái đi thêm 7m, đi xuống cầu thang, đi thêm 30m.",
+                "fileName": "viethouse.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "souvenirfoodshop.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Souvenir and Special Food Shop",
+                "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái.",
+                "fileName": "souvenirfoodshop.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "relaxinghousespa.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Relaxing House Spa",
+                "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ  phải, đi thẳng thêm 10m.",
+                "fileName": "relaxinghousespa.mp4",
+                "categories": [
+                    {
+                        "name": "Service",
+                        "menu": [
+                            "Foot Massage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "premiermart.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Premier Mart",
+                "instruction": "Rẽ phải, đi thẳng 75m, cửa hàng nằm bên phải.",
+                "fileName": "premiermart.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "madeinvietnam.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Made in Vietnam",
+                "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
+                "fileName": "madeinvietnam.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "cmcleather.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "CMC Leather",
+                "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+                "fileName": "cmcleather.mp4",
+                "categories": [
+                    {
+                        "name": "Brand Stuff",
+                        "menu": [
+                            "Leather"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "vietmesegiftshop.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Vietnamese Gift Shop",
+                "instruction": "Rẽ phải, đi thẳng 55m, cửa hàng nằm bên trái.",
+                "fileName": "vietmesegiftshop.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "yenstore.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Yen Store",
+                "instruction": "Rẽ phải, đi thẳng 85m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 85m, cửa hàng nằm bên trái.",
+                "fileName": "yenstore.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "lananhshop.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Lan Anh Shop",
+                "instruction": "Bên trái, đi thẳng 65m, cửa hàng bên tay phải.",
+                "fileName": "lananhshop.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "vietnamspecial.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Vietnamese Specialities",
+                "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+                "fileName": "vietnamspecial.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "luckygiftshop.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Lucky Gift Shop",
+                "instruction": "Rẽ phải, đi thẳng 65m, cửa hàng nằm bên phải - hoặc - Rẽ trái, đi thẳng 65m, cửa hàng nằm bên trái.",
+                "fileName": "luckygiftshop.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "nhatrangspecial.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Nha Trang Specialities",
+                "instruction": "Rẽ trái, đi thẳng 55m, cửa hàng nằm bên phải.",
+                "fileName": "nhatrangspecial.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "tobarosouvenir.jpg",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Tobaco and Souvenir",
+                "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
+                "fileName": "tobarosouvenir.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Tobacco"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "happyshopping.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Happy Shopping",
+                "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy",
+                "fileName": "happyshopping.mp4",
+                "categories": [
+                    {
+                        "name": "Souvenir",
+                        "menu": [
+                            "Souvenir",
+                            "VietNam Specialities"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "vietinbank.png",
+                "direction": "left",
+                "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
+                "fileName": "medical.mp4",
+                "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải.",
+                "categories": []
+            }
+        ]
+    },
+    "food&drink": {
+        "navbar.title": "Ăn uống",
+        "stores": [
+            {
+                "icon": "burgerking.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Burger King",
+                "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên trái.",
+                "fileName": "burgerking.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Hamburger"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Drinks",
+                            "Coffee"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "presto.png",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Presto Food and Drink",
+                "instruction": "Bên phải, đi thẳng 105m, cửa hàng bên tay trái.",
+                "fileName": "presto.mp4",
+                "categories": [
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Tea",
+                            "Fruit Juice"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "yenrestaurant.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Yen Restaurant",
+                "instruction": "Bên phải, đi thẳng 130m, cửa hàng bên tay phải.",
+                "fileName": "yenrestaurant.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle",
+                            "Bread"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice",
+                            "Smoothie"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "foodanddrink.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Food and Drink",
+                "instruction": "Rẽ trái, đi thẳng 105m, cửa hàng nằm bên phải.",
+                "fileName": "foodanddrink.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice",
+                            "Tea"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "vietnamfvd.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Vietnamese Food & Drink",
+                "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
+                "fileName": "vietnamfvd.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "yourvietnam.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Your Vietnam",
+                "instruction": "Rẽ trái, đi thẳng 130m, rẽ phải đi thêm 5m, xuống cầu thang.",
+                "fileName": "yourvietnam.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle",
+                            "Bread"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice",
+                            "Tea"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "purogusto.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Puro Gusto",
+                "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên phải.",
+                "fileName": "purogusto.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle",
+                            "Bread"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice",
+                            "Tea",
+                            "Smoothies",
+                            "Milk Tea",
+                            "Ice cream"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "starcafe.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Star Cafe",
+                "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay trái.",
+                "fileName": "starcafe.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Pho",
+                            "Noodle",
+                            "Bread"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Coffee",
+                            "Fruit Juice",
+                            "Tea",
+                            "Smoothies",
+                            "Milk Tea",
+                            "Ice cream"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "crystaljade.jpeg",
+                "background": "bgairport.jpeg",
+                "direction": "right",
+                "name": "Crystal Jade",
+                "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay phải.",
+                "fileName": "crystaljade.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": [
+                            "Chinese Cuisine"
+                        ]
+                    },
+                    {
+                        "name": "Beverage",
+                        "menu": [
+                            "Herbal Tea",
+                            "Fruity Nade",
+                            "Drinks"
+                        ]
+                    }
+                ]
+            },
+            {
+                "icon": "tahaka.png",
+                "background": "bgairport.jpeg",
+                "direction": "left",
+                "name": "Taha-ka",
+                "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
+                "fileName": "tahaka.mp4",
+                "categories": [
+                    {
+                        "name": "Foods",
+                        "menu": []
+                    }
+                ]
+            }
+        ]
+    }
+}
