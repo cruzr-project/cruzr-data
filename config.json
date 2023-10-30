@@ -3,7 +3,8 @@
   "languages": [
     "en.json",
     "vi.json",
-    "zh.json"
+    "zh.json",
+    "kor.json"
   ],
   "motion": {
     "left": "d05c720e930cfde358072039ed4fc4c81659578180934",
