@@ -43,6 +43,13 @@
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "Đi thẳng về phía bên trái 118m, Sun Coast Lounge nằm bên phải, ngay bên cạnh Crystal Jade Kitchen."
+      },
+      {
+        "icon": "vietinbank.png",
+        "direction": "left",
+        "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
+        "fileName": "medical.mp4",
+        "instruction": "Đi thẳng về phía bên trái 30m, quầy hoàn thuế nằm ở bên phải."
       }
     ],
     "places.group2": [
@@ -51,7 +58,7 @@
         "direction": "right",
         "name": "Cổng 6, 7",
         "fileName": "gate67.mp4",
-        "instruction": "Đi thẳng về phía bên phải 40m, sau đó rẽ phải đi thêm 10m."
+        "instruction": "Đi thẳng về phía bên phải 40m, sau đó rẽ trái đi thêm 10m."
       },
       {
         "icon": "",
@@ -105,7 +112,7 @@
         "background": "bgairport.jpeg",
         "direction": "",
         "name": "Lotte Duty Free – Mỹ phẩm",
-        "instruction": "Phía sau, đi thẳng 6m.",
+        "instruction": "Đi thẳng, phía trước 6m. ",
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
@@ -126,7 +133,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lotte Duty Free – Thời trang",
-        "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên trái.",
+        "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên phải.",
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
@@ -147,7 +154,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lotte Duty Free – Đồng hồ & Trang sức",
-        "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên phải.",
+        "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên trái.",
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
@@ -168,7 +175,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "Bên phải, đi thẳng 65m, cửa hàng bên tay trái.",
+        "instruction": "Rẽ trái, đi thẳng 65m, cửa hàng bên tay trái.",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -180,11 +187,11 @@
         ]
       },
       {
-        "icon": "mengallery.jpeg",
+        "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Men's Gallery",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
+        "name": "Qmart",
+        "instruction": "Rẽ trái, đi thẳng 130m, rẽ trái, đi xuống sảnh chờ cửa ra tàu bay (cửa số 1-2-3) hoặc bên phải, đi thẳng 130m, rẽ phải đi xuống sảnh chờ cửa ra tàu bay (cửa số 8-9- 10)",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -200,7 +207,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái.",
+        "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái; hoặc rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -217,7 +224,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "19 islands",
-        "instruction": "Rẽ phải, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
+        "instruction": "Rẽ trái, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -234,7 +241,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "Rẽ trái, đi thẳng 40m, rẽ trái đi thêm 7m, đi xuống cầu thang, đi thêm 30m.",
+        "instruction": "Rẽ phải, đi thẳng 40m, rẽ trái, đi thêm 7m, đi xuống cầu thang, đi thẳng thêm 30m.",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -251,7 +258,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái.",
+        "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -268,7 +275,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ  phải, đi thẳng thêm 10m.",
+        "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi thẳng thêm 10m",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -301,7 +308,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
+        "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ trái đi thêm 7m, xuống cầu thang, cửa hàng nằm ở phía tay phải. Hoặc rẽ phải, đi thẳng 130m, cửa hàng nằm ở bên trái",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -313,28 +320,13 @@
           }
         ]
       },
-      {
-        "icon": "cmcleather.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "CMC Leather",
-        "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
-        "fileName": "cmcleather.mp4",
-        "categories": [
-          {
-            "name": "Brand Stuff",
-            "menu": [
-              "Leather"
-            ]
-          }
-        ]
-      },
+   
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "Rẽ phải, đi thẳng 55m, cửa hàng nằm bên trái.",
+        "instruction": "Rẽ trái, đi thẳng 55m, cửa hàng nằm bên trái.",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -463,15 +455,7 @@
             ]
           }
         ]
-      },
-      {
-        "icon": "vietinbank.png",
-        "direction": "left",
-        "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
-        "fileName": "medical.mp4",
-        "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải.",
-        "categories": []
-      }
+      }    
     ]
   },
   "food&drink": {

@@ -43,6 +43,13 @@
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "Sun Coast Lounge is located on the left, right next to Crystal Jade Kitchen."
+      },
+      {
+        "icon": "vietinbank.png",
+        "direction": "left",
+        "name": "Value Added Tax Refund Counter - Vietinbank",
+        "fileName": "medical.mp4",
+        "instruction": "Go straight left for 30m, the tax refund counter is on the right."
       }
     ],
     "places.group2": [
@@ -51,7 +58,7 @@
         "direction": "right",
         "name": "Gate 6, 7",
         "fileName": "gate67.mp4",
-        "instruction": "Go straight to the right 40m, then turn right to go another 10m."
+        "instruction": "Go straight to the right 40m, then turn left to go another 10m."
       },
       {
         "icon": "",
@@ -104,8 +111,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "",
-        "name": "Lotte Duty Free – Tobacco, Liquid & Cosmetic",
-        "instruction": "Go 6 meters straight behind.",
+        "name": "Lotte Duty Free – Cosmetic",
+        "instruction": "Go straight, 6m ahead.",
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
@@ -126,7 +133,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lotte Duty Free – Fashion",
-        "instruction": "Turn right, continue straight for 30 meters, and the store is on the left.",
+        "instruction": "Turn right, go straight 30m, the store is on the right side",
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
@@ -147,7 +154,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lotte Duty Free – Watch & Jewelry",
-        "instruction": "Turn left, continue straight for 30 meters, and the store is on the right.",
+        "instruction": "Turn left, go straight 30m, the store is on the left.",
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
@@ -168,7 +175,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "On the right, go straight 65m; the shop on the left.",
+        "instruction": "Turn left, go straight 65m, shop on the left.",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -180,11 +187,11 @@
         ]
       },
       {
-        "icon": "mengallery.jpeg",
+        "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Men's Gallery",
-        "instruction": "Turn right, proceed 130 meters straight, turn left, proceed 5 meters, and exit the elevator.",
+        "name": "Qmart",
+        "instruction": "Turn left, go straight 130m, turn left, go down to the airport lobby (doors 1-2-3) or right, go straight 130m, turn right to go down to the airport lobby (gates 8- 9- 10).",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -200,7 +207,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "Turn right, straight for 50 meters, and the store will be on your right or turn left, straight for 50 meters, and the store will be on your left.",
+        "instruction": "Turn right, go straight 50m, the store is on the left; or turn left, go straight 50m, the store is on the right.",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -217,7 +224,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "19 islands",
-        "instruction": "Turn right, go straight 40m, turn right, go further 7m, go down the stairs, go 30m more.",
+        "instruction": "Turn left, go straight 40m, turn right, go another 7m, go down the stairs, go another 30m.",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -234,7 +241,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "Turn left, go straight for 40m, turn left for another 7m, go down the stairs, go 30m more.",
+        "instruction": "Turn right, go straight 40m, turn left, go another 7m, go down the stairs, go straight another 30m",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -251,7 +258,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "Turn right, go straight 50m, the shop is on the left.",
+        "instruction": "Turn left, go straight 50m, the store is on the left",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -268,7 +275,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "Turn right, go straight for 40m, then turn right, go straight for another 10m.",
+        "instruction": "Turn left, go straight 40m, then turn right, go straight another 10m.",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -301,7 +308,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "Turn left, go straight 130m, the shop is on the left.",
+        "instruction": "Turn right, go straight 40m, then turn left and go 7m, down the stairs, the store is on the right. Or turn right, go straight 130m, the store is on the left",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -313,28 +320,13 @@
           }
         ]
       },
-      {
-        "icon": "cmcleather.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "CMC Leather",
-        "instruction": "On the right, go straight 130m, turn left, go 5m more, get off the elevator.",
-        "fileName": "cmcleather.mp4",
-        "categories": [
-          {
-            "name": "Brand Stuff",
-            "menu": [
-              "Leather"
-            ]
-          }
-        ]
-      },
+    
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "Turn right, go straight 55m, the shop is on the left.",
+        "instruction": "Turn left, go straight 55m, the store is on the left",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -463,14 +455,6 @@
             ]
           }
         ]
-      },
-      {
-        "icon": "vietinbank.png",
-        "direction": "left",
-        "name": "Value Added Tax Refund Counter - Vietinbank",
-        "fileName": "medical.mp4",
-        "instruction": "Turn right, go straight 40m, turn right, go further 7m, right hand side.",
-        "categories": []
       }
     ]
   },

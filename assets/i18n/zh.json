@@ -43,6 +43,13 @@
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "向右直走118m，Sun Coast Lounge 就在右边，在Crystal Jade Kitchen的旁边。"
+      },
+      {
+        "icon": "vietinbank.png",
+        "direction": "left",
+        "name": "增值税柜台 - Vietinbank",
+        "fileName": "medical.mp4",
+        "instruction": "向左直行30m，退税柜台在右侧。"
       }
     ],
     "places.group2": [
@@ -51,7 +58,7 @@
         "direction": "right",
         "name": "6-7门",
         "fileName": "gate67.mp4",
-        "instruction": "往右直走40米，然後右轉再走10米。"
+        "instruction": "向右直行40m，然后左转再行10m。"
       },
       {
         "icon": "",
@@ -104,8 +111,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "",
-        "name": "Lotte Duty Free – Tobacco, Liquid&Cosmetic",
-        "instruction": "後面，直走6米",
+        "name": "乐天免税店 – 化妆品",
+        "instruction": "直走，前方6m。",
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
@@ -126,7 +133,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lotte Duty Free – Fashion",
-        "instruction": "右轉，直行30米，商店在左邊",
+        "instruction": "右转，直走30m，商店就在右边。",
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
@@ -147,7 +154,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lotte Duty Free – 手表和珠宝",
-        "instruction": "左轉，直行30米，商店位於右側",
+        "instruction": "左转，直行30m，商店在左边",
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
@@ -168,7 +175,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "右邊，直走65米，商店位於左邊",
+        "instruction": "左转，直行65m，左侧商店",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -180,11 +187,11 @@
         ]
       },
       {
-        "icon": "mengallery.jpeg",
+        "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Men's Gallery",
-        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
+        "name": "Qmart",
+        "instruction": "左转，直行130m，左转，下至机场大厅（1-2-3号门）或右转，直行130m，右转下至机场大厅（8-9-10号门）。",
         "fileName": "mengallery.mp4",
         "categories": [
           {
@@ -200,7 +207,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "右轉，直行50米，商店位於右側或左轉，直行50米，商店位於左側。",
+        "instruction": "右转，直行50m，商店在左边； 或者左转，直走50m，商店就在右边。",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -217,7 +224,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "19 islands",
-        "instruction": "右轉，直行40米，右轉，再走7米，下樓梯，再走30米。",
+        "instruction": "左转，直走40m，右转，再走7m，下楼梯，再走30m。",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -234,7 +241,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "左轉，直行40米，左轉再走7米，下樓梯，再走30米。",
+        "instruction": "右转，直走40m，左转，再走7m，下楼梯，再直走30m",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -251,7 +258,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "右轉，直行50米，商店位於左邊。",
+        "instruction": "左转，直行50m，商店在左边",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -268,7 +275,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "右轉，直行40米，然後右轉，再直行10米。",
+        "instruction": "左转，直行40m，然后右转，再直行10m",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -301,7 +308,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "左轉，直行130米，商店位於左邊。",
+        "instruction": "右转直走40m，再左转7m，下楼梯，商店就在右边。 或者右转，直走130m，商店在左边",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -313,28 +320,13 @@
           }
         ]
       },
-      {
-        "icon": "cmcleather.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "CMC Leather",
-        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
-        "fileName": "cmcleather.mp4",
-        "categories": [
-          {
-            "name": "Brand Stuff",
-            "menu": [
-              "Leather"
-            ]
-          }
-        ]
-      },
+   
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "右轉，直行55米，商店位於左邊。",
+        "instruction": "左转，直走55m，商店在左边",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -463,14 +455,6 @@
             ]
           }
         ]
-      },
-      {
-        "icon": "vietinbank.png",
-        "direction": "left",
-        "name": "增值税柜台 - Vietinbank",
-        "fileName": "medical.mp4",
-        "instruction": "右轉，直行40米，右轉，再走7米，右手邊。",
-        "categories": []
       }
     ]
   },

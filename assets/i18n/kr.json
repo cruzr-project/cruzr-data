@@ -43,6 +43,13 @@
         "name": "썬코스트 라운지",
         "fileName": "suncoastlounge.mp4",
         "instruction": "썬코스트 라운지는 크리스탈 제이드 키친 옆 왼쪽에 있습니다."
+      },
+      {
+        "icon": "vietinbank.png",
+        "direction": "left",
+        "fileName": "medical.mp4",
+        "name": "Value Added Tax Refund Counter - Vietinbank",
+        "instruction": "좌회전 30m 직진하시면 오른쪽에 세금환급 카운터가 있습니다."
       }
     ],
     "places.group2": [
@@ -51,7 +58,7 @@
         "direction": "right",
         "name": "6, 7 문",
         "fileName": "gate67.mp4",
-        "instruction": "오른쪽으로 40m 직진한 뒤 오른쪽으로 10m 더 가세요."
+        "instruction": "오른쪽으로 40m 직진 후 좌회전하여 10m 더 이동."
       },
       {
         "icon": "",
@@ -104,8 +111,8 @@
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
         "direction": "",
-        "name": "Lotte Duty Free – Tobacco, Liquid & Cosmetic",
-        "instruction": "뒤로 6미터 직진하세요.",
+        "name": "롯데면세점 - 화장품",
+        "instruction": "6m 앞으로 직진하세요.",
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
@@ -126,7 +133,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lotte Duty Free – Fashion",
-        "instruction": "오른쪽으로 돌아 30미터 직진하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "우회전 후 30m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
@@ -147,7 +154,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Lotte Duty Free – Watch & Jewelry",
-        "instruction": "왼쪽으로 돌아 30미터 직진하세요. 매장은 오른쪽에 있습니다.",
+        "instruction": "좌회전 후 30m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
@@ -168,7 +175,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Long Beach Pearl",
-        "instruction": "오른쪽으로 직진 65m하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "좌회전 후 65m 직진 후 좌측 매장.",
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
@@ -178,10 +185,10 @@
         ]
       },
       {
-        "icon": "mengallery.jpeg",
+        "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Men's Gallery",
+        "name": "Qmart",
         "instruction": "오른쪽으로 돌아 130미터 직진하세요. 왼쪽으로 돌아 5미터 가세요. 엘리베이터에서 내리세요.",
         "fileName": "mengallery.mp4",
         "categories": [
@@ -196,7 +203,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnam's Delight",
-        "instruction": "오른쪽으로 직진 50미터하세요. 매장은 오른쪽에 있습니다. 왼쪽으로 직진 50미터 하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "우회전 후 50m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 50m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
@@ -210,7 +217,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "19 islands",
-        "instruction": "오른쪽으로 직진 40m하세요. 오른쪽으로 돌아 7m 더 가세요. 계단으로 내려가세요. 30m 더 가세요.",
+        "instruction": "좌회전하여 40m 직진, 우회전하여 7m 더 이동, 계단을 내려가서 30m 더 이동합니다.",
         "fileName": "19islands.mp4",
         "categories": [
           {
@@ -224,7 +231,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Viet House",
-        "instruction": "왼쪽으로 직진 40m하세요. 왼쪽으로 7m 더 가세요. 계단으로 내려가세요. 30m 더 가세요.",
+        "instruction": "우회전 후 40m 직진, 좌회전 후 7m 더 이동, 계단을 내려가서 30m 더 직진",
         "fileName": "viethouse.mp4",
         "categories": [
           {
@@ -238,7 +245,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Souvenir and Special Food Shop",
-        "instruction": "오른쪽으로 직진 50m하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "좌회전 후 50m 직진하시면 왼편에 매장이 있습니다",
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
@@ -252,7 +259,7 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Relaxing House Spa",
-        "instruction": "오른쪽으로 직진 40m하세요. 오른쪽으로 돌아 10m 더 가세요.",
+        "instruction": "좌회전 후 40m 직진 후 우회전 후 10m 더 직진",
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
@@ -280,7 +287,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Made in Vietnam",
-        "instruction": "왼쪽으로 직진 130m하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "우회전하여 40m 직진 후 좌회전하여 7m 이동 후 계단을 내려가면 오른쪽에 매장이 있습니다. 또는 우회전 후 130m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
@@ -289,26 +296,13 @@
           }
         ]
       },
-      {
-        "icon": "cmcleather.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "CMC Leather",
-        "instruction": "오른쪽으로 직진 130m하세요. 왼쪽으로 돌아 5m 더 가세요. 엘리베이터에서 내리세요.",
-        "fileName": "cmcleather.mp4",
-        "categories": [
-          {
-            "name": "Brand Stuff",
-            "menu": ["Leather"]
-          }
-        ]
-      },
+     
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Gift Shop",
-        "instruction": "오른쪽으로 직진 55m하세요. 매장은 왼쪽에 있습니다.",
+        "instruction": "좌회전 후 55m 직진, 왼편에 매장이 있습니다",
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
@@ -414,14 +408,6 @@
             "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
-      },
-      {
-        "icon": "vietinbank.png",
-        "direction": "left",
-        "fileName": "medical.mp4",
-        "name": "Value Added Tax Refund Counter - Vietinbank",
-        "instruction": "오른쪽으로 직진 40m하세요. 오른쪽으로 돌아 7m 더 가세요. 오른쪽에 있습니다.",
-        "categories": []
       }
     ]
   },
