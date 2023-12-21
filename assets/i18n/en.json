@@ -180,9 +180,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Pearl"
-            ]
+            "menu": ["Pearl"]
           }
         ]
       },
@@ -196,9 +194,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Clothes and bags"
-            ]
+            "menu": ["Clothes and bags"]
           }
         ]
       },
@@ -212,10 +208,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -229,10 +222,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -246,10 +236,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -263,10 +250,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -280,29 +264,11 @@
         "categories": [
           {
             "name": "Service",
-            "menu": [
-              "Foot Massage"
-            ]
+            "menu": ["Foot Massage"]
           }
         ]
       },
-      {
-        "icon": "premiermart.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "Premier Mart",
-        "instruction": "Turn right, go straight 75m, the shop is on the right.",
-        "fileName": "premiermart.mp4",
-        "categories": [
-          {
-            "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
-          }
-        ]
-      },
+
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
@@ -313,14 +279,11 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
-    
+
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
@@ -331,10 +294,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -343,15 +303,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Store",
-        "instruction": "Turn right, go straight 85m, the store is on the right or Turn left, go straight 85m, the store is on the left.",
+        "instruction": "Turn right, go straight 85m, the store is on the left; or turn left, go straight 85m, the store is on the right.",
         "fileName": "yenstore.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -365,10 +322,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -377,15 +331,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnamese Specialities",
-        "instruction": "On the right, go straight 130m, turn left, go 5m more, get off the elevator.",
+        "instruction": "Turn left, go straight 40m, then turn right, go down the stairs, the store is located in the airport lobby, doors 4-5. Or turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -394,15 +345,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lucky Gift Shop",
-        "instruction": "Turn right, go straight 65m, the store is on the right - or - Turn left, go straight 65m, the store is on the left.",
+        "instruction": "Turn right, go straight 65m, the store is on the left; or turn left, go straight 65m, the store is on the right.",
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -411,31 +359,26 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
-        "instruction": "Turn left, go straight 55m, the shop is on the right.",
+        "instruction": "Turn right, go straight 55m, the store is on the right.",
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
       {
-        "icon": "tobarosouvenir.jpg",
+        "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
         "direction": "left",
-        "name": "Tobaco and Souvenir",
-        "instruction": "Turn left, go straight 50m, the shop is on the right.",
+        "name": "Gourmet Viet",
+        "instruction": "Turn right, go straight 50m, the store is on the right.",
         "fileName": "tobarosouvenir.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Tobacco"
-            ]
+            "menu": ["Tobacco"]
           }
         ]
       },
@@ -444,15 +387,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Happy Shopping",
-        "instruction": "Turn right, go straight 130m, turn left, go 5m, get off the elevator.",
+        "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "happyshopping.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       }
@@ -466,21 +406,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Burger King",
-        "instruction": "Turn left, go straight 100m, the shop is on the left.",
+        "instruction": "Turn right, go straight 100m, the store is on the left.",
         "fileName": "burgerking.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Hamburger"
-            ]
+            "menu": ["Hamburger"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Drinks",
-              "Coffee"
-            ]
+            "menu": ["Drinks", "Coffee"]
           }
         ]
       },
@@ -489,16 +424,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Presto Food and Drink",
-        "instruction": "On the right, go straight 105m, the shop on the left.",
+        "instruction": "Turn left, go straight 105m, shop on the left.",
         "fileName": "presto.mp4",
         "categories": [
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Tea",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Tea", "Fruit Juice"]
           }
         ]
       },
@@ -507,24 +438,16 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Restaurant",
-        "instruction": "On the right, go straight 130m, the shop on the right.",
+        "instruction": "Turn left, go straight 130m, the store is on the right.",
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
           }
         ]
       },
@@ -533,23 +456,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
-        "instruction": "Turn left, go straight 105m, the shop is on the right.",
+        "instruction": "Turn right, go straight 105m, shop on the right.",
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -558,22 +474,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Food & Drink",
-        "instruction": "Turn left, go straight 130m, the shop is on the left.",
+        "instruction": "Turn right, go straight 130m, the store is on the left.",
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Fruit Juice"]
           }
         ]
       },
@@ -582,24 +492,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
-        "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
+        "instruction": "Turn right, go straight 130m, then turn right, go down the stairs, the store is located in the departure lounge, doors 8-9-10.",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -608,17 +510,34 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Puro Gusto",
-        "instruction": "Turn left, go straight 100m, the shop is on the right.",
+        "instruction": "Turn right, go straight 100m, the store is on the right.",
         "fileName": "purogusto.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "coffee.png",
+        "background": "bgairport.jpeg",
+        "direction": "right",
+        "name": "Coffee",
+        "instruction": "Turn left, go straight 100m, the shop is on the left",
+        "fileName": "coffee.mp4",
+        "categories": [
           {
             "name": "Beverage",
             "menu": [
@@ -637,16 +556,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Star Cafe",
-        "instruction": "On the right, go straight 100m, the shop on the left.",
+        "instruction": "Turn right, go straight 40m, then turn left, down the stairs; or turn left, go straight 40m, then turn right, down the stairs. The store is located in the airport lobby, doors 4-5 and doors 6-7",
         "fileName": "starcafe.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
@@ -666,22 +581,16 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Crystal Jade",
-        "instruction": "On the right, go straight 100m, the shop on the right.",
+        "instruction": "Turn left, go straight 100m, the store is on the right.",
         "fileName": "crystaljade.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Chinese Cuisine"
-            ]
+            "menu": ["Chinese Cuisine"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Herbal Tea",
-              "Fruity Nade",
-              "Drinks"
-            ]
+            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
           }
         ]
       },
@@ -690,7 +599,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Taha-ka",
-        "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
+        "instruction": "Turn right, go straight 130m, then turn right, down the stairs. The store is located in the airport lobby, door number 1-2-3.",
         "fileName": "tahaka.mp4",
         "categories": [
           {

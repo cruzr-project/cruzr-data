@@ -180,9 +180,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Pearl"
-            ]
+            "menu": ["Pearl"]
           }
         ]
       },
@@ -196,9 +194,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Clothes and bags"
-            ]
+            "menu": ["Clothes and bags"]
           }
         ]
       },
@@ -212,10 +208,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -229,10 +222,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -246,10 +236,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -263,10 +250,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -280,29 +264,11 @@
         "categories": [
           {
             "name": "Service",
-            "menu": [
-              "Foot Massage"
-            ]
+            "menu": ["Foot Massage"]
           }
         ]
       },
-      {
-        "icon": "premiermart.png",
-        "background": "bgairport.jpeg",
-        "direction": "right",
-        "name": "Premier Mart",
-        "instruction": "右轉，直行75米，商店位於右側。",
-        "fileName": "premiermart.mp4",
-        "categories": [
-          {
-            "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
-          }
-        ]
-      },
+
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
@@ -313,14 +279,11 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
-   
+
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
@@ -331,10 +294,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -343,15 +303,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Store",
-        "instruction": "右轉，直行85米，商店位於右側或左轉，直行85米，商店位於左側。",
+        "instruction": "右转，直行85m，商店在左边； 或左转，直走85m，商店就在右边。",
         "fileName": "yenstore.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -365,10 +322,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -377,15 +331,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Vietnamese Specialities",
-        "instruction": "右邊，直行130米，左轉，再走5米，下電梯。",
+        "instruction": "左转，直走40m，然后右转，下楼梯，商店位于机场大厅，4-5号门。 或者左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -394,15 +345,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Lucky Gift Shop",
-        "instruction": "右轉，直行65米，商店位於右側 -或- 左轉，直行65米，商店位於左側。",
+        "instruction": "右转，直行65m，商店在左边； 或左转，直走65m，商店就在右边。",
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -411,31 +359,26 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Nha Trang Specialities",
-        "instruction": "左轉，直行55米，商店位於右側。",
+        "instruction": "右转，直走55m，商店就在右边。",
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
       {
-        "icon": "tobarosouvenir.jpg",
+        "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
         "direction": "left",
-        "name": "Tobaco and Souvenir",
-        "instruction": "左轉，直行50米，商店位於右側。",
+        "name": "Gourmet Viet",
+        "instruction": "右转，直走50m，商店就在右边。",
         "fileName": "tobarosouvenir.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Tobacco"
-            ]
+            "menu": ["Tobacco"]
           }
         ]
       },
@@ -444,15 +387,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Happy Shopping",
-        "instruction": "右邊，直行130米，左轉，再走5米，下電梯",
+        "instruction": "左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
         "fileName": "happyshopping.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       }
@@ -466,21 +406,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Burger King",
-        "instruction": "左轉，直行100米，商店在左邊。",
+        "instruction": "右转，直走100m，商店就在左边。",
         "fileName": "burgerking.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Hamburger"
-            ]
+            "menu": ["Hamburger"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Drinks",
-              "Coffee"
-            ]
+            "menu": ["Drinks", "Coffee"]
           }
         ]
       },
@@ -489,16 +424,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Presto Food and Drink",
-        "instruction": "右邊，直行105米，店在左手邊。",
+        "instruction": "左转，直行105m，在左边购物。",
         "fileName": "presto.mp4",
         "categories": [
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Tea",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Tea", "Fruit Juice"]
           }
         ]
       },
@@ -507,24 +438,16 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Yen Restaurant",
-        "instruction": "右邊，直走130米，商店位於右邊。",
+        "instruction": "左转，直走130m，商店就在右边。",
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
           }
         ]
       },
@@ -533,23 +456,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Food and Drink",
-        "instruction": "左轉，直行105米，商店位於右側。",
+        "instruction": "右转，直行105m，店铺在右侧。",
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -558,22 +474,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Vietnamese Food & Drink",
-        "instruction": "左轉，直行130米，商店位於左邊。",
+        "instruction": "右转，直行130m，商店在左边。",
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Fruit Juice"]
           }
         ]
       },
@@ -582,24 +492,16 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Your Vietnam",
-        "instruction": "左轉，直行130米，右轉再走5米，下樓梯。",
+        "instruction": "右转，直行130m，然后右转，下楼梯，商店位于出发休息室，门8-9-10。",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -608,17 +510,34 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Puro Gusto",
-        "instruction": "左轉，直行100米，商店位於右側。",
+        "instruction": "右转，直走100m，商店就在右边。",
         "fileName": "purogusto.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
+          {
+            "name": "Beverage",
+            "menu": [
+              "Coffee",
+              "Fruit Juice",
+              "Tea",
+              "Smoothies",
+              "Milk Tea",
+              "Ice cream"
+            ]
+          }
+        ]
+      },
+      {
+        "icon": "coffee.png",
+        "background": "bgairport.jpeg",
+        "direction": "right",
+        "name": "Coffee",
+        "instruction": "左转，直行100m，商店在左边",
+        "fileName": "coffee.mp4",
+        "categories": [
           {
             "name": "Beverage",
             "menu": [
@@ -637,16 +556,12 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Star Cafe",
-        "instruction": "右邊，直走100米，商店在左手邊。",
+        "instruction": "右转，直行40m，然后左转，下楼梯； 或左转，直行40m，然后右转，下楼梯。 商店位于机场大厅，4-5号门和6-7号门",
         "fileName": "starcafe.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
@@ -666,22 +581,16 @@
         "background": "bgairport.jpeg",
         "direction": "right",
         "name": "Crystal Jade",
-        "instruction": "右邊，直走100米，商店位於右邊。",
+        "instruction": "左转，直走100m，商店就在右边。",
         "fileName": "crystaljade.mp4",
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Chinese Cuisine"
-            ]
+            "menu": ["Chinese Cuisine"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Herbal Tea",
-              "Fruity Nade",
-              "Drinks"
-            ]
+            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
           }
         ]
       },
@@ -690,7 +599,7 @@
         "background": "bgairport.jpeg",
         "direction": "left",
         "name": "Taha-ka",
-        "instruction": "左轉，直行130米，右轉再走5米，下樓梯。",
+        "instruction": "右转，直行130m，然后右转，下楼梯。 商店位于机场大厅，门号1-2-3。",
         "fileName": "tahaka.mp4",
         "categories": [
           {
