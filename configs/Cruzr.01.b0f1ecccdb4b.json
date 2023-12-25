@@ -1,5 +1,5 @@
 {
-  "version": 3.64,
+  "version": 3.641,
   "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
   "motion": {
     "left": "hug",
