@@ -105,7 +105,7 @@
     ]
   },
   "shopping": {
-    "navbar.title": "Shopping",
+    "navbar.title": "购物",
     "stores": [
       {
         "icon": "lottedutyfree.jpeg",
@@ -116,15 +116,8 @@
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": [
-              "Cosmetic",
-              "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
-            ]
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
           }
         ]
       },
@@ -137,15 +130,8 @@
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": [
-              "Cosmetic",
-              "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
-            ]
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
           }
         ]
       },
@@ -158,15 +144,8 @@
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": [
-              "Cosmetic",
-              "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
-            ]
+            "name": "奢侈品",
+            "menu": ["化妆品", "PFM", "酒精饮料", "烟草", "珠宝", "手表"]
           }
         ]
       },
@@ -179,8 +158,8 @@
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": ["Pearl"]
+            "name": "奢侈品",
+            "menu": ["珍珠"]
           }
         ]
       },
@@ -190,11 +169,11 @@
         "direction": "right",
         "name": "Qmart",
         "instruction": "左转，直行130m，左转，下至机场大厅（1-2-3号门）或右转，直行130m，右转下至机场大厅（8-9-10号门）。",
-        "fileName": "mengallery.mp4",
+        "fileName": "qmart.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": ["Clothes and bags"]
+            "name": "奢侈品",
+            "menu": ["衣服 & 包包"]
           }
         ]
       },
@@ -207,8 +186,8 @@
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -221,8 +200,8 @@
         "fileName": "19islands.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -235,8 +214,8 @@
         "fileName": "viethouse.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -249,8 +228,8 @@
         "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -263,8 +242,8 @@
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
-            "name": "Service",
-            "menu": ["Foot Massage"]
+            "name": "提供服务",
+            "menu": ["足部按摩"]
           }
         ]
       },
@@ -278,8 +257,8 @@
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -293,8 +272,8 @@
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -307,8 +286,8 @@
         "fileName": "yenstore.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -321,8 +300,8 @@
         "fileName": "lananhshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -335,8 +314,8 @@
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -349,8 +328,8 @@
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -363,8 +342,8 @@
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       },
@@ -374,11 +353,11 @@
         "direction": "left",
         "name": "Gourmet Viet",
         "instruction": "右转，直走50m，商店就在右边。",
-        "fileName": "tobarosouvenir.mp4",
+        "fileName": "gourmetviet.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Tobacco"]
+            "name": "纪念品",
+            "menu": ["烟草"]
           }
         ]
       },
@@ -391,15 +370,15 @@
         "fileName": "happyshopping.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "纪念品",
+            "menu": ["纪念品", "越南特产"]
           }
         ]
       }
     ]
   },
   "food&drink": {
-    "navbar.title": "Ăn uống",
+    "navbar.title": "饮食",
     "stores": [
       {
         "icon": "burgerking.jpeg",
@@ -410,12 +389,12 @@
         "fileName": "burgerking.mp4",
         "categories": [
           {
-            "name": "Foods",
+            "name": "食物",
             "menu": ["Hamburger"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Drinks", "Coffee"]
+            "name": "饮料",
+            "menu": ["饮料", "咖啡"]
           }
         ]
       },
@@ -428,8 +407,8 @@
         "fileName": "presto.mp4",
         "categories": [
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Tea", "Fruit Juice"]
+            "name": "饮料",
+            "menu": ["咖啡", "茶", "果汁"]
           }
         ]
       },
@@ -442,12 +421,12 @@
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "冰沙"]
           }
         ]
       },
@@ -460,12 +439,12 @@
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle"]
+            "name": "食物",
+            "menu": ["河粉", "面条"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Tea"]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶"]
           }
         ]
       },
@@ -478,12 +457,12 @@
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle"]
+            "name": "食物",
+            "menu": ["河粉", "面条"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice"]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁"]
           }
         ]
       },
@@ -496,12 +475,12 @@
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Tea"]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶"]
           }
         ]
       },
@@ -514,19 +493,12 @@
         "fileName": "purogusto.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
           },
           {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
-            ]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
           }
         ]
       },
@@ -534,20 +506,13 @@
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Coffee",
+        "name": "咖啡",
         "instruction": "左转，直行100m，商店在左边",
         "fileName": "coffee.mp4",
         "categories": [
           {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
-            ]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
           }
         ]
       },
@@ -560,19 +525,12 @@
         "fileName": "starcafe.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "食物",
+            "menu": ["河粉", "面条", "面包"]
           },
           {
-            "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
-            ]
+            "name": "饮料",
+            "menu": ["咖啡", "果汁", "茶", "冰沙", "奶茶", "冰淇淋"]
           }
         ]
       },
@@ -585,12 +543,12 @@
         "fileName": "crystaljade.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Chinese Cuisine"]
+            "name": "食物",
+            "menu": ["中国菜"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
+            "name": "饮料",
+            "menu": ["草药茶", "水果糖浆", "饮料"]
           }
         ]
       },
@@ -603,7 +561,7 @@
         "fileName": "tahaka.mp4",
         "categories": [
           {
-            "name": "Foods",
+            "name": "食物",
             "menu": []
           }
         ]

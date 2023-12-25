@@ -75,9 +75,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Pearl"
-            ]
+            "menu": ["Pearl"]
           }
         ]
       },
@@ -87,13 +85,11 @@
         "direction": "left",
         "name": "Men's Gallery",
         "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
-        "fileName": "mengallery.mp4",
+        "fileName": "qmart.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Clothes and bags"
-            ]
+            "menu": ["Clothes and bags"]
           }
         ]
       },
@@ -107,10 +103,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -124,10 +117,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -141,10 +131,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -158,10 +145,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -175,9 +159,7 @@
         "categories": [
           {
             "name": "Service",
-            "menu": [
-              "Foot Massage"
-            ]
+            "menu": ["Foot Massage"]
           }
         ]
       },
@@ -191,10 +173,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -208,10 +187,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -225,9 +201,7 @@
         "categories": [
           {
             "name": "Brand Stuff",
-            "menu": [
-              "Leather"
-            ]
+            "menu": ["Leather"]
           }
         ]
       },
@@ -241,10 +215,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -258,10 +229,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -275,10 +243,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -292,10 +257,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -309,10 +271,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -326,10 +285,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -339,13 +295,11 @@
         "direction": "right",
         "name": "Tobaco and Souvenir",
         "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
-        "fileName": "tobarosouvenir.mp4",
+        "fileName": "gourmetviet.mp4",
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Tobacco"
-            ]
+            "menu": ["Tobacco"]
           }
         ]
       },
@@ -359,10 +313,7 @@
         "categories": [
           {
             "name": "Souvenir",
-            "menu": [
-              "Souvenir",
-              "VietNam Specialities"
-            ]
+            "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
       },
@@ -389,16 +340,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Hamburger"
-            ]
+            "menu": ["Hamburger"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Drinks",
-              "Coffee"
-            ]
+            "menu": ["Drinks", "Coffee"]
           }
         ]
       },
@@ -412,11 +358,7 @@
         "categories": [
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Tea",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Tea", "Fruit Juice"]
           }
         ]
       },
@@ -430,19 +372,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Smoothie"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
           }
         ]
       },
@@ -456,18 +390,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -481,17 +408,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle"
-            ]
+            "menu": ["Pho", "Noodle"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice"
-            ]
+            "menu": ["Coffee", "Fruit Juice"]
           }
         ]
       },
@@ -505,19 +426,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea"
-            ]
+            "menu": ["Coffee", "Fruit Juice", "Tea"]
           }
         ]
       },
@@ -531,11 +444,7 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
@@ -560,11 +469,7 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Pho",
-              "Noodle",
-              "Bread"
-            ]
+            "menu": ["Pho", "Noodle", "Bread"]
           },
           {
             "name": "Beverage",
@@ -589,17 +494,11 @@
         "categories": [
           {
             "name": "Foods",
-            "menu": [
-              "Chinese Cuisine"
-            ]
+            "menu": ["Chinese Cuisine"]
           },
           {
             "name": "Beverage",
-            "menu": [
-              "Herbal Tea",
-              "Fruity Nade",
-              "Drinks"
-            ]
+            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
           }
         ]
       },

@@ -1,5 +1,5 @@
 {
-  "version": 3.62,
+  "version": 3.63,
   "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
   "motion": {
     "left": "hug",
@@ -38,7 +38,10 @@
     "bgairport.jpeg",
     "nologo.png",
     "vietinbank.png",
-    "tahaka.png"
+    "tahaka.png",
+    "coffee.png",
+    "qmart.jpg",
+    "gourmetviet.png"
   ],
   "videos": [
     "gate123.mp4",
@@ -58,7 +61,7 @@
     "longbeachpearl.mp4",
     "presto.mp4",
     "yenrestaurant.mp4",
-    "mengallery.mp4",
+    "qmart.mp4",
     "vietnamsdelight.mp4",
     "19islands.mp4",
     "viethouse.mp4",
@@ -75,7 +78,7 @@
     "vietnamspecial.mp4",
     "luckygiftshop.mp4",
     "nhatrangspecial.mp4",
-    "tobarosouvenir.mp4",
+    "gourmetviet.mp4",
     "yourvietnam.mp4",
     "happyshopping.mp4",
     "purogusto.mp4",
@@ -83,6 +86,7 @@
     "crystaljade.mp4",
     "burgerking.mp4",
     "vietinbank.mp4",
-    "tahaka.mp4"
+    "tahaka.mp4",
+    "coffee.mp4"
   ]
 }

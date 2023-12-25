@@ -116,14 +116,14 @@
         "fileName": "lottedutyfree.behind.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
+            "name": "Hàng hiệu",
             "menu": [
-              "Cosmetic",
+              "Mỹ phẩm",
               "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
+              "Rượu",
+              "Thuốc lá",
+              "Trang sức",
+              "Đồng hồ"
             ]
           }
         ]
@@ -137,14 +137,14 @@
         "fileName": "lottedutyfree.right.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
+            "name": "Hàng hiệu",
             "menu": [
-              "Cosmetic",
+              "Mỹ phẩm",
               "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
+              "Rượu",
+              "Thuốc lá",
+              "Trang sức",
+              "Đồng hồ"
             ]
           }
         ]
@@ -158,14 +158,14 @@
         "fileName": "lottedutyfree.left.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
+            "name": "Hàng hiệu",
             "menu": [
-              "Cosmetic",
+              "Mỹ phẩm",
               "PFM",
-              "Liquor",
-              "Tobacco",
-              "Jewellery",
-              "Watch"
+              "Rượu",
+              "Thuốc lá",
+              "Trang sức",
+              "Đồng hồ"
             ]
           }
         ]
@@ -179,8 +179,8 @@
         "fileName": "longbeachpearl.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": ["Pearl"]
+            "name": "Hàng hiệu",
+            "menu": ["Ngọc trai"]
           }
         ]
       },
@@ -190,11 +190,11 @@
         "direction": "right",
         "name": "Qmart",
         "instruction": "Rẽ trái, đi thẳng 130m, rẽ trái, đi xuống sảnh chờ cửa ra tàu bay (cửa số 1-2-3) hoặc bên phải, đi thẳng 130m, rẽ phải đi xuống sảnh chờ cửa ra tàu bay (cửa số 8-9- 10)",
-        "fileName": "mengallery.mp4",
+        "fileName": "qmart.mp4",
         "categories": [
           {
-            "name": "Brand Stuff",
-            "menu": ["Clothes and bags"]
+            "name": "Hàng hiệu",
+            "menu": ["Quần áo & Túi xách"]
           }
         ]
       },
@@ -207,8 +207,8 @@
         "fileName": "vietnamsdelight.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -221,8 +221,8 @@
         "fileName": "19islands.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -235,22 +235,22 @@
         "fileName": "viethouse.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
       {
-        "icon": "souvenirfoodshop.png",
+        "icon": "Đồ lưu niệmfoodshop.png",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Souvenir and Special Food Shop",
+        "name": "Đồ lưu niệm and Special Food Shop",
         "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái",
-        "fileName": "souvenirfoodshop.mp4",
+        "fileName": "Đồ lưu niệmfoodshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -263,8 +263,8 @@
         "fileName": "relaxinghousespa.mp4",
         "categories": [
           {
-            "name": "Service",
-            "menu": ["Foot Massage"]
+            "name": "Dịch vụ",
+            "menu": ["Massage chân"]
           }
         ]
       },
@@ -277,8 +277,8 @@
         "fileName": "madeinvietnam.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -292,8 +292,8 @@
         "fileName": "vietmesegiftshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -306,8 +306,8 @@
         "fileName": "yenstore.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -320,8 +320,8 @@
         "fileName": "lananhshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -334,8 +334,8 @@
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -348,8 +348,8 @@
         "fileName": "luckygiftshop.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -362,8 +362,8 @@
         "fileName": "nhatrangspecial.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       },
@@ -373,11 +373,11 @@
         "direction": "left",
         "name": "Gourmet Viet",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm ở bên phải.",
-        "fileName": "tobarosouvenir.mp4",
+        "fileName": "tobaroĐồ lưu niệm.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Tobacco"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Thuốc lá"]
           }
         ]
       },
@@ -390,8 +390,8 @@
         "fileName": "happyshopping.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Souvenir", "VietNam Specialities"]
+            "name": "Đồ lưu niệm",
+            "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
       }
@@ -409,12 +409,12 @@
         "fileName": "burgerking.mp4",
         "categories": [
           {
-            "name": "Foods",
+            "name": "Đồ ăn",
             "menu": ["Hamburger"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Drinks", "Coffee"]
+            "name": "Đồ uống",
+            "menu": ["Đồ uống", "Cà phê"]
           }
         ]
       },
@@ -427,8 +427,8 @@
         "fileName": "presto.mp4",
         "categories": [
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Tea", "Fruit Juice"]
+            "name": "Đồ uống",
+            "menu": ["Cà phê", "Trà", "Nước trái cây"]
           }
         ]
       },
@@ -441,12 +441,12 @@
         "fileName": "yenrestaurant.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì", "Bánh mì"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Smoothie"]
+            "name": "Đồ uống",
+            "menu": ["Cà phê", "Nước trái cây", "Sinh tố"]
           }
         ]
       },
@@ -459,12 +459,12 @@
         "fileName": "foodanddrink.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Tea"]
+            "name": "Đồ uống",
+            "menu": ["Cà phê", "Nước trái cây", "Trà"]
           }
         ]
       },
@@ -477,12 +477,12 @@
         "fileName": "vietnamfvd.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice"]
+            "name": "Đồ uống",
+            "menu": ["Cà phê", "Nước trái cây"]
           }
         ]
       },
@@ -495,12 +495,12 @@
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì", "Bánh mì"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Coffee", "Fruit Juice", "Tea"]
+            "name": "Đồ uống",
+            "menu": ["Cà phê", "Nước trái cây", "Trà"]
           }
         ]
       },
@@ -513,18 +513,18 @@
         "fileName": "purogusto.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì", "Bánh mì"]
           },
           {
-            "name": "Beverage",
+            "name": "Đồ uống",
             "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
+              "Cà phê",
+              "Nước trái cây",
+              "Trà",
+              "Sinh tố",
+              "Trà sữa",
+              "Kem"
             ]
           }
         ]
@@ -533,19 +533,19 @@
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
         "direction": "right",
-        "name": "Coffee",
+        "name": "Cà phê",
         "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng bên tay trái",
         "fileName": "coffee.mp4",
         "categories": [
           {
-            "name": "Beverage",
+            "name": "Đồ uống",
             "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
+              "Cà phê",
+              "Nước trái cây",
+              "Trà",
+              "Sinh tố",
+              "Trà sữa",
+              "Kem"
             ]
           }
         ]
@@ -559,18 +559,18 @@
         "fileName": "starcafe.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Pho", "Noodle", "Bread"]
+            "name": "Đồ ăn",
+            "menu": ["Phở", "Mì", "Bánh mì"]
           },
           {
-            "name": "Beverage",
+            "name": "Đồ uống",
             "menu": [
-              "Coffee",
-              "Fruit Juice",
-              "Tea",
-              "Smoothies",
-              "Milk Tea",
-              "Ice cream"
+              "Cà phê",
+              "Nước trái cây",
+              "Trà",
+              "Sinh tố",
+              "Trà sữa",
+              "Kem"
             ]
           }
         ]
@@ -584,12 +584,12 @@
         "fileName": "crystaljade.mp4",
         "categories": [
           {
-            "name": "Foods",
-            "menu": ["Chinese Cuisine"]
+            "name": "Đồ ăn",
+            "menu": ["Ẩm thực Trung Hoa"]
           },
           {
-            "name": "Beverage",
-            "menu": ["Herbal Tea", "Fruity Nade", "Drinks"]
+            "name": "Đồ uống",
+            "menu": ["Trà thảo mộc", "Nước trái cây", "Đồ uống"]
           }
         ]
       },
@@ -602,7 +602,7 @@
         "fileName": "tahaka.mp4",
         "categories": [
           {
-            "name": "Foods",
+            "name": "Đồ ăn",
             "menu": []
           }
         ]

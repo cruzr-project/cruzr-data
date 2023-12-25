@@ -190,7 +190,7 @@
         "direction": "right",
         "name": "Qmart",
         "instruction": "Turn left, go straight 130m, turn left, go down to the airport lobby (doors 1-2-3) or right, go straight 130m, turn right to go down to the airport lobby (gates 8- 9- 10).",
-        "fileName": "mengallery.mp4",
+        "fileName": "qmart.mp4",
         "categories": [
           {
             "name": "Brand Stuff",
@@ -374,7 +374,7 @@
         "direction": "left",
         "name": "Gourmet Viet",
         "instruction": "Turn right, go straight 50m, the store is on the right.",
-        "fileName": "tobarosouvenir.mp4",
+        "fileName": "gourmetviet.mp4",
         "categories": [
           {
             "name": "Souvenir",

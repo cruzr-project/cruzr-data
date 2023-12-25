@@ -1,11 +1,6 @@
 {
   "version": 3.4,
-  "languages": [
-    "en.json",
-    "vi.json",
-    "zh.json",
-    "kr.json"
-  ],
+  "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
   "motion": {
     "left": "131e8fc923adc43dc9490a94db820e7b1699844173157",
     "right": "8dbf77537dbf9ea272a80fcd1a543b7b1699844278575"
@@ -63,7 +58,7 @@
     "longbeachpearl.mp4",
     "presto.mp4",
     "yenrestaurant.mp4",
-    "mengallery.mp4",
+    "qmart.mp4",
     "vietnamsdelight.mp4",
     "19islands.mp4",
     "viethouse.mp4",
@@ -80,7 +75,7 @@
     "vietnamspecial.mp4",
     "luckygiftshop.mp4",
     "nhatrangspecial.mp4",
-    "tobarosouvenir.mp4",
+    "gourmetviet.mp4",
     "yourvietnam.mp4",
     "happyshopping.mp4",
     "purogusto.mp4",

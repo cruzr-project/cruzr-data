@@ -56,7 +56,7 @@
 "lottedutyfree.mp4"
 "lottedutyfree.mp4"
 "longbeachpearl.mp4"
-"mengallery.mp4"
+"qmart.mp4"
 "vietnamsdelight.mp4"
 "19islands.mp4"
 "viethouse.mp4"
@@ -71,7 +71,7 @@
 "vietnamspecial.mp4"
 "luckygiftshop.mp4"
 "nhatrangspecial.mp4"
-"tobarosouvenir.mp4"
+"gourmetviet.mp4"
 "happyshopping.mp4"
 "burgerking.mp4"
 "presto.mp4"
@@ -101,7 +101,7 @@
 "lottedutyfree.left.mp4"
 "lottedutyfree.right.mp4",
 "longbeachpearl.mp4",
-"mengallery.mp4",
+"qmart.mp4",
 "vietnamsdelight.mp4",
 "19islands.mp4",
 "viethouse.mp4",
@@ -116,7 +116,7 @@
 "vietnamspecial.mp4",
 "luckygiftshop.mp4",
 "nhatrangspecial.mp4",
-"tobarosouvenir.mp4",
+"gourmetviet.mp4",
 "happyshopping.mp4",
 "burgerking.mp4"
 "presto.mp4",
