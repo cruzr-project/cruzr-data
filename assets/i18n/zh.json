@@ -1,5 +1,7 @@
 {
   "directions": {
+    "label.navigate":"导航",
+    "label.menu":"菜单",
     "navbar.title": "你想去哪里？",
     "places.group1": [
       {

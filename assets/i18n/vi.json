@@ -1,5 +1,7 @@
 {
   "directions": {
+    "label.navigate":"Chỉ đường",
+    "label.menu":"Menu",
     "navbar.title": "Bạn muốn đến đâu?",
     "places.group1": [
       {

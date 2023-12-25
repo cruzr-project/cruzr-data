@@ -1,5 +1,7 @@
 {
   "directions": {
+    "label.navigate":"Navigate",
+    "label.menu":"Menu",
     "navbar.title": "Where you want to go?",
     "places.group1": [
       {

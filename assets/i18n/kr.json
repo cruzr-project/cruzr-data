@@ -1,5 +1,7 @@
 {
   "directions": {
+    "label.navigate":"길 안내",
+    "label.menu":"메뉴",
     "navbar.title": "어디로 가시겠어요?",
     "places.group1": [
       {
