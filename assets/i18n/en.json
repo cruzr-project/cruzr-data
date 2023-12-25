@@ -6,7 +6,7 @@
     "places.group1": [
       {
         "icon": "",
-        "actions": "left",
+        "actions": "talk1,shy,talk2",
         "name": "Gate 1, 2, 3",
         "fileName": "gate123.mp4",
         "instruction": "Go straight to the left 125m, then turn left for another 5m, the door down is on the left."
