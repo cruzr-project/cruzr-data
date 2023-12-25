@@ -4,49 +4,49 @@
     "places.group1": [
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "1, 2, 3 문",
         "fileName": "gate123.mp4",
         "instruction": "왼쪽으로 125m 직진한 뒤 왼쪽으로 5m 더 가세요. 문은 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "4, 5 문",
         "fileName": "gate45.mp4",
         "instruction": "왼쪽으로 40m 직진한 뒤 오른쪽으로 10m 더 가세요. 문은 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "흡연실",
         "fileName": "smoking.left.mp4",
         "instruction": "왼쪽으로 110m 직진하세요. 흡연실은 크리스탈 제이드 키친 반대편 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "남자 화장실",
         "fileName": "restroom.left.mp4",
         "instruction": "왼쪽으로 60m 직진하세요. 남자 화장실은 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "여자 화장실",
         "fileName": "restroom.left.mp4",
         "instruction": "왼쪽으로 45m 직진하세요. 여자 화장실은 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "썬코스트 라운지",
         "fileName": "suncoastlounge.mp4",
         "instruction": "썬코스트 라운지는 크리스탈 제이드 키친 옆 왼쪽에 있습니다."
       },
       {
         "icon": "vietinbank.png",
-        "direction": "left",
+        "actions": "left",
         "fileName": "medical.mp4",
         "name": "Value Added Tax Refund Counter - Vietinbank",
         "instruction": "좌회전 30m 직진하시면 오른쪽에 세금환급 카운터가 있습니다."
@@ -55,49 +55,49 @@
     "places.group2": [
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "6, 7 문",
         "fileName": "gate67.mp4",
         "instruction": "오른쪽으로 40m 직진 후 좌회전하여 10m 더 이동."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "8, 9, 10 문",
         "fileName": "gate8910.mp4",
         "instruction": "오른쪽으로 125m 직진한 뒤 오른쪽으로 5m 더 가세요."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "흡연실",
         "fileName": "smoking.right.mp4",
         "instruction": "오른쪽으로 110m 직진하세요. 흡연실은 버거킹 반대편 오른쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "여자 화장실",
         "fileName": "restroom.right.mp4",
         "instruction": "오른쪽으로 45m 직진하세요. 여자 화장실은 오른쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "남자 화장실",
         "fileName": "restroom.right.mp4",
         "instruction": "오른쪽으로 60m 직진하세요. 남자 화장실은 오른쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "로터스 라운지",
         "fileName": "lotuslounge.mp4",
         "instruction": "오른쪽으로 118m 직진하세요. 로터스 라운지는 버거킹 옆 왼쪽에 있습니다."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "응급실",
         "fileName": "medical.mp4",
         "instruction": "오른쪽으로 120m 직진한 뒤 왼쪽으로 5m 더 가세요."
@@ -110,7 +110,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "",
+        "actions": "",
         "name": "롯데면세점 - 화장품",
         "instruction": "6m 앞으로 직진하세요.",
         "fileName": "lottedutyfree.behind.mp4",
@@ -124,7 +124,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotte Duty Free – Fashion",
         "instruction": "우회전 후 30m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "lottedutyfree.right.mp4",
@@ -138,7 +138,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lotte Duty Free – Watch & Jewelry",
         "instruction": "좌회전 후 30m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "lottedutyfree.left.mp4",
@@ -152,7 +152,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Long Beach Pearl",
         "instruction": "좌회전 후 65m 직진 후 좌측 매장.",
         "fileName": "longbeachpearl.mp4",
@@ -166,7 +166,7 @@
       {
         "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Qmart",
         "instruction": "오른쪽으로 돌아 130미터 직진하세요. 왼쪽으로 돌아 5미터 가세요. 엘리베이터에서 내리세요.",
         "fileName": "qmart.mp4",
@@ -180,7 +180,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnam's Delight",
         "instruction": "우회전 후 50m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 50m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "vietnamsdelight.mp4",
@@ -194,7 +194,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "19 islands",
         "instruction": "좌회전하여 40m 직진, 우회전하여 7m 더 이동, 계단을 내려가서 30m 더 이동합니다.",
         "fileName": "19islands.mp4",
@@ -208,7 +208,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Viet House",
         "instruction": "우회전 후 40m 직진, 좌회전 후 7m 더 이동, 계단을 내려가서 30m 더 직진",
         "fileName": "viethouse.mp4",
@@ -222,7 +222,7 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Souvenir and Special Food Shop",
         "instruction": "좌회전 후 50m 직진하시면 왼편에 매장이 있습니다",
         "fileName": "souvenirfoodshop.mp4",
@@ -236,7 +236,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Relaxing House Spa",
         "instruction": "좌회전 후 40m 직진 후 우회전 후 10m 더 직진",
         "fileName": "relaxinghousespa.mp4",
@@ -251,7 +251,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Made in Vietnam",
         "instruction": "우회전하여 40m 직진 후 좌회전하여 7m 이동 후 계단을 내려가면 오른쪽에 매장이 있습니다. 또는 우회전 후 130m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "madeinvietnam.mp4",
@@ -266,7 +266,7 @@
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Gift Shop",
         "instruction": "좌회전 후 55m 직진, 왼편에 매장이 있습니다",
         "fileName": "vietmesegiftshop.mp4",
@@ -280,7 +280,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Store",
         "instruction": "우회전 후 85m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 85m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "yenstore.mp4",
@@ -294,7 +294,7 @@
       {
         "icon": "lananhshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lan Anh Shop",
         "instruction": "왼쪽으로 직진 65m하세요. 매장은 오른쪽에 있습니다.",
         "fileName": "lananhshop.mp4",
@@ -308,7 +308,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnamese Specialities",
         "instruction": "좌회전 후 40m 직진 후 우회전하여 계단을 내려가면 공항 로비 4~5번 문에 매장이 있습니다. 또는 좌회전 후 130m 직진 후 좌회전하여 계단을 내려가면 공항 로비 1-2-3번 문에 매장이 있습니다.",
         "fileName": "vietnamspecial.mp4",
@@ -322,7 +322,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lucky Gift Shop",
         "instruction": "우회전 후 65m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 65m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "luckygiftshop.mp4",
@@ -336,7 +336,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Nha Trang Specialities",
         "instruction": "우회전 후 55m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "nhatrangspecial.mp4",
@@ -350,7 +350,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Gourmet Viet",
         "instruction": "우회전 후 50m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "gourmetviet.mp4",
@@ -364,7 +364,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Happy Shopping",
         "instruction": "좌회전 후 130m 직진 후 좌회전 후 계단을 내려가면 공항 로비 1-2-3번 문에 매장이 있습니다.",
         "fileName": "happyshopping.mp4",
@@ -383,7 +383,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Burger King",
         "instruction": "우회전 후 100m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "burgerking.mp4",
@@ -401,7 +401,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Presto Food and Drink",
         "instruction": "좌회전 후 105m 직진 후 왼쪽에 상점이 있습니다.",
         "fileName": "presto.mp4",
@@ -415,7 +415,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Restaurant",
         "instruction": "좌회전 후 130m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "yenrestaurant.mp4",
@@ -433,7 +433,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Food and Drink",
         "instruction": "우회전 후 105m 직진 후 오른쪽에 상점이 있습니다.",
         "fileName": "foodanddrink.mp4",
@@ -451,7 +451,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Food & Drink",
         "instruction": "우회전 후 130m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "vietnamfvd.mp4",
@@ -469,7 +469,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Your Vietnam",
         "instruction": "우회전 후 130m 직진 후 우회전하여 계단을 내려가면 출국 라운지 8-9-10번 문에 매장이 있습니다.",
         "fileName": "yourvietnam.mp4",
@@ -487,7 +487,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Puro Gusto",
         "instruction": "우회전 후 100m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "purogusto.mp4",
@@ -505,7 +505,7 @@
       {
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "커피",
         "instruction": "좌회전 후 100m 직진하시면 왼편에 매장이 있습니다",
         "fileName": "coffee.mp4",
@@ -519,7 +519,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Star Cafe",
         "instruction": "우회전하여 40m 직진한 후 좌회전하여 계단을 내려갑니다. 또는 좌회전하여 40m 직진한 후 우회전하여 계단을 내려갑니다. 매장은 공항 로비 4~5번 문과 6~7번 문에 위치해 있습니다.",
         "fileName": "starcafe.mp4",
@@ -537,7 +537,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Crystal Jade",
         "instruction": "좌회전 후 100m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "crystaljade.mp4",
@@ -555,7 +555,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Taha-ka",
         "instruction": "우회전하여 130m 직진 후 우회전하여 계단을 내려갑니다. 매장은 공항 로비 1-2-3번 문에 위치해 있습니다.",
         "fileName": "tahaka.mp4",

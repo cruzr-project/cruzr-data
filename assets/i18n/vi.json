@@ -4,49 +4,49 @@
     "places.group1": [
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Cổng 1, 2, 3",
         "fileName": "gate123.mp4",
         "instruction": "Đi thẳng về phía bên trái 125m, sau đó rẽ trái đi thêm 5m."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Cổng 4, 5",
         "fileName": "gate45.mp4",
         "instruction": "Đi thẳng về phía bên trái 40m, sau đó rẽ phải đi thêm 10m."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Phòng hút thuốc",
         "fileName": "smoking.left.mp4",
         "instruction": "Đi thẳng về phía bên trái 110m, phòng hút thuốc nằm bên trái, đối diện Crystal Jade Kitchen."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.left.mp4",
         "instruction": "Đi thẳng về phía bên trái 60m, nhà vệ sinh nam nằm bên trái"
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Nhà vệ sinh nữ",
         "fileName": "restroom.left.mp4",
         "instruction": "Đi thẳng về phía bên trái 45m, nhà vệ sinh nữ nằm bên trái."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "Đi thẳng về phía bên trái 118m, Sun Coast Lounge nằm bên phải, ngay bên cạnh Crystal Jade Kitchen."
       },
       {
         "icon": "vietinbank.png",
-        "direction": "left",
+        "actions": "left",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
         "fileName": "medical.mp4",
         "instruction": "Đi thẳng về phía bên trái 30m, quầy hoàn thuế nằm ở bên phải."
@@ -55,49 +55,49 @@
     "places.group2": [
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Cổng 6, 7",
         "fileName": "gate67.mp4",
         "instruction": "Đi thẳng về phía bên phải 40m, sau đó rẽ trái đi thêm 10m."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Cổng 8, 9, 10",
         "fileName": "gate8910.mp4",
         "instruction": "Đi thẳng về phía bên phải 125m, sau đó rẽ phải đi thêm 5m."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Phòng hút thuốc",
         "fileName": "smoking.right.mp4",
         "instruction": "Đi  thẳng về phía bên phải 110, phòng hút thuốc nằm bên phải, đối diện Burger King."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Nhà vệ sinh nữ",
         "fileName": "restroom.right.mp4",
         "instruction": "Đi thẳng về phía bên phải 45m, nhà vệ sinh nữ nằm bên phải."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Nhà vệ sinh nam",
         "fileName": "restroom.right.mp4",
         "instruction": "Đi thẳng về phía bên phải 60m, nhà vệ sinh nam nằm bên phải."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotus Lounge",
         "fileName": "lotuslounge.mp4",
         "instruction": "Đi thẳng về phía bên phải 118m, Lotus Lounge nằm bên trái, ngay bên cạnh Burger King."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Phòng y tế",
         "fileName": "medical.mp4",
         "instruction": "Đi thẳng về phía bên phải 120m, sau đó rẽ trái đi thêm 5m."
@@ -110,7 +110,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "",
+        "actions": "",
         "name": "Lotte Duty Free – Mỹ phẩm",
         "instruction": "Đi thẳng, phía trước 6m. ",
         "fileName": "lottedutyfree.behind.mp4",
@@ -131,7 +131,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotte Duty Free – Thời trang",
         "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên phải.",
         "fileName": "lottedutyfree.right.mp4",
@@ -152,7 +152,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lotte Duty Free – Đồng hồ & Trang sức",
         "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên trái.",
         "fileName": "lottedutyfree.left.mp4",
@@ -173,7 +173,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Long Beach Pearl",
         "instruction": "Rẽ trái, đi thẳng 65m, cửa hàng bên tay trái.",
         "fileName": "longbeachpearl.mp4",
@@ -187,7 +187,7 @@
       {
         "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Qmart",
         "instruction": "Rẽ trái, đi thẳng 130m, rẽ trái, đi xuống sảnh chờ cửa ra tàu bay (cửa số 1-2-3) hoặc bên phải, đi thẳng 130m, rẽ phải đi xuống sảnh chờ cửa ra tàu bay (cửa số 8-9- 10)",
         "fileName": "qmart.mp4",
@@ -201,7 +201,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnam's Delight",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái; hoặc rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
         "fileName": "vietnamsdelight.mp4",
@@ -215,7 +215,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "19 islands",
         "instruction": "Rẽ trái, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
         "fileName": "19islands.mp4",
@@ -229,7 +229,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Viet House",
         "instruction": "Rẽ phải, đi thẳng 40m, rẽ trái, đi thêm 7m, đi xuống cầu thang, đi thẳng thêm 30m.",
         "fileName": "viethouse.mp4",
@@ -243,7 +243,7 @@
       {
         "icon": "Đồ lưu niệmfoodshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Đồ lưu niệm and Special Food Shop",
         "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái",
         "fileName": "Đồ lưu niệmfoodshop.mp4",
@@ -257,7 +257,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Relaxing House Spa",
         "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi thẳng thêm 10m",
         "fileName": "relaxinghousespa.mp4",
@@ -271,7 +271,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Made in Vietnam",
         "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ trái đi thêm 7m, xuống cầu thang, cửa hàng nằm ở phía tay phải. Hoặc rẽ phải, đi thẳng 130m, cửa hàng nằm ở bên trái",
         "fileName": "madeinvietnam.mp4",
@@ -286,7 +286,7 @@
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Gift Shop",
         "instruction": "Rẽ trái, đi thẳng 55m, cửa hàng nằm bên trái.",
         "fileName": "vietmesegiftshop.mp4",
@@ -300,7 +300,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Store",
         "instruction": "Rẽ phải, đi thẳng 85m, cửa hàng nằm bên trái; hoặc rẽ trái, đi thẳng 85m, cửa hàng nằm bên phải.",
         "fileName": "yenstore.mp4",
@@ -314,7 +314,7 @@
       {
         "icon": "lananhshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lan Anh Shop",
         "instruction": "Bên trái, đi thẳng 65m, cửa hàng bên tay phải.",
         "fileName": "lananhshop.mp4",
@@ -328,7 +328,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnamese Specialities",
         "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 4-5. Hoặc rẽ trái , đi thẳng 130m, sau đó rẽ trái, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
         "fileName": "vietnamspecial.mp4",
@@ -342,7 +342,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lucky Gift Shop",
         "instruction": "Rẽ phải, đi thẳng 65m, cửa hàng nằm ở bên trái; hoặc rẽ trái, đi thẳng 65m, cửa hàng nằm ở bên phải.",
         "fileName": "luckygiftshop.mp4",
@@ -356,7 +356,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Nha Trang Specialities",
         "instruction": "Rẽ phải, đi thẳng 55m, cửa hàng nằm ở bên phải.",
         "fileName": "nhatrangspecial.mp4",
@@ -370,7 +370,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Gourmet Viet",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm ở bên phải.",
         "fileName": "tobaroĐồ lưu niệm.mp4",
@@ -384,7 +384,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Happy Shopping",
         "instruction": "Rẽ trái, đi thẳng 130m, sau đó rẽ trái, xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
         "fileName": "happyshopping.mp4",
@@ -403,7 +403,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Burger King",
         "instruction": "Rẽ phải, đi thẳng  100m, cửa hàng bên tay trái.",
         "fileName": "burgerking.mp4",
@@ -421,7 +421,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Presto Food and Drink",
         "instruction": "Rẽ trái, đi thẳng 105m, cửa hàng bên tay trái.",
         "fileName": "presto.mp4",
@@ -435,7 +435,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Restaurant",
         "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng bên tay phải.",
         "fileName": "yenrestaurant.mp4",
@@ -453,7 +453,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Food and Drink",
         "instruction": "Rẽ phải, đi thẳng 105m, cửa hàng bên tay phải.",
         "fileName": "foodanddrink.mp4",
@@ -471,7 +471,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Food & Drink",
         "instruction": "Rẽ phải, đi thẳng 130m, cửa hàng bên tay trái.",
         "fileName": "vietnamfvd.mp4",
@@ -489,7 +489,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Your Vietnam",
         "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang, cửa hàng nằm ở phòng chờ ra tàu bay cửa số 8-9-10.",
         "fileName": "yourvietnam.mp4",
@@ -507,7 +507,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Puro Gusto",
         "instruction": "Rẽ phải, đi thẳng 100m, cửa hàng nằm bên tay phải.",
         "fileName": "purogusto.mp4",
@@ -532,7 +532,7 @@
       {
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Cà phê",
         "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng bên tay trái",
         "fileName": "coffee.mp4",
@@ -553,7 +553,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Star Cafe",
         "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ trái, xuống cầu thang; hoặc rẽ trái, đi thẳng 40m, sau đó rẽ phải, xuống cầu thang. Cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 4-5 và cửa số 6-7",
         "fileName": "starcafe.mp4",
@@ -578,7 +578,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Crystal Jade",
         "instruction": "Rẽ trái, đi thẳng  100m, cửa hàng bên tay phải.",
         "fileName": "crystaljade.mp4",
@@ -596,7 +596,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Taha-ka",
         "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang. Cửa hàng nằm ở sảnh chờ ra tàu bay, cửa số 1-2-3.",
         "fileName": "tahaka.mp4",

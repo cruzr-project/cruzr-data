@@ -4,49 +4,49 @@
     "places.group1": [
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left,right",
         "name": "Gate 1, 2, 3",
         "fileName": "gate123.mp4",
         "instruction": "Go straight to the left 125m, then turn left for another 5m, the door down is on the left."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Gate 4, 5",
         "fileName": "gate45.mp4",
         "instruction": "Go straight to the left for 40m, then turn right for another 10m, the door down to the gate is on the left."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Smoking room",
         "fileName": "smoking.left.mp4",
         "instruction": "Go straight to the left 110m, the smoking room is on the left, opposite the Crystal Jade Kitchen."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Men's restroom",
         "fileName": "restroom.left.mp4",
         "instruction": "Go straight to the left for 60m, the men's restroom is on the left."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Women's restroom",
         "fileName": "restroom.left.mp4",
         "instruction": "Go straight to the left 45m, the women's restroom is on the left."
       },
       {
         "icon": "",
-        "direction": "left",
+        "actions": "left",
         "name": "Sun Coast Lounge",
         "fileName": "suncoastlounge.mp4",
         "instruction": "Sun Coast Lounge is located on the left, right next to Crystal Jade Kitchen."
       },
       {
         "icon": "vietinbank.png",
-        "direction": "left",
+        "actions": "left",
         "name": "Value Added Tax Refund Counter - Vietinbank",
         "fileName": "medical.mp4",
         "instruction": "Go straight left for 30m, the tax refund counter is on the right."
@@ -55,49 +55,49 @@
     "places.group2": [
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Gate 6, 7",
         "fileName": "gate67.mp4",
         "instruction": "Go straight to the right 40m, then turn left to go another 10m."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Gate 8, 9, 10",
         "fileName": "gate8910.mp4",
         "instruction": "Go straight to the right 125m, then turn right to go another 5m."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Smoking room",
         "fileName": "smoking.right.mp4",
         "instruction": "Go straight to the right 110, the smoking room is located on the right, opposite Burger King."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Women's restroom",
         "fileName": "restroom.right.mp4",
         "instruction": "Go straight to the right 45m, the women's restroom is on the right."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Men's restroom",
         "fileName": "restroom.right.mp4",
         "instruction": "Go straight to the right 60m, the men's restroom is on the right."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotus Lounge",
         "fileName": "lotuslounge.mp4",
         "instruction": "Go straight to the right 118m, Lotus Lounge is on the left, right next to Burger King."
       },
       {
         "icon": "",
-        "direction": "right",
+        "actions": "right",
         "name": "Medical room",
         "fileName": "medical.mp4",
         "instruction": "Go straight to the right 120m, then turn left for another 5m."
@@ -110,7 +110,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "",
+        "actions": "",
         "name": "Lotte Duty Free – Cosmetic",
         "instruction": "Go straight, 6m ahead.",
         "fileName": "lottedutyfree.behind.mp4",
@@ -131,7 +131,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotte Duty Free – Fashion",
         "instruction": "Turn right, go straight 30m, the store is on the right side",
         "fileName": "lottedutyfree.right.mp4",
@@ -152,7 +152,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lotte Duty Free – Watch & Jewelry",
         "instruction": "Turn left, go straight 30m, the store is on the left.",
         "fileName": "lottedutyfree.left.mp4",
@@ -173,7 +173,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Long Beach Pearl",
         "instruction": "Turn left, go straight 65m, shop on the left.",
         "fileName": "longbeachpearl.mp4",
@@ -187,7 +187,7 @@
       {
         "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Qmart",
         "instruction": "Turn left, go straight 130m, turn left, go down to the airport lobby (doors 1-2-3) or right, go straight 130m, turn right to go down to the airport lobby (gates 8- 9- 10).",
         "fileName": "qmart.mp4",
@@ -201,7 +201,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnam's Delight",
         "instruction": "Turn right, go straight 50m, the store is on the left; or turn left, go straight 50m, the store is on the right.",
         "fileName": "vietnamsdelight.mp4",
@@ -215,7 +215,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "19 islands",
         "instruction": "Turn left, go straight 40m, turn right, go another 7m, go down the stairs, go another 30m.",
         "fileName": "19islands.mp4",
@@ -229,7 +229,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Viet House",
         "instruction": "Turn right, go straight 40m, turn left, go another 7m, go down the stairs, go straight another 30m",
         "fileName": "viethouse.mp4",
@@ -243,7 +243,7 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Souvenir and Special Food Shop",
         "instruction": "Turn left, go straight 50m, the store is on the left",
         "fileName": "souvenirfoodshop.mp4",
@@ -257,7 +257,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Relaxing House Spa",
         "instruction": "Turn left, go straight 40m, then turn right, go straight another 10m.",
         "fileName": "relaxinghousespa.mp4",
@@ -272,7 +272,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Made in Vietnam",
         "instruction": "Turn right, go straight 40m, then turn left and go 7m, down the stairs, the store is on the right. Or turn right, go straight 130m, the store is on the left",
         "fileName": "madeinvietnam.mp4",
@@ -287,7 +287,7 @@
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Gift Shop",
         "instruction": "Turn left, go straight 55m, the store is on the left",
         "fileName": "vietmesegiftshop.mp4",
@@ -301,7 +301,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Store",
         "instruction": "Turn right, go straight 85m, the store is on the left; or turn left, go straight 85m, the store is on the right.",
         "fileName": "yenstore.mp4",
@@ -315,7 +315,7 @@
       {
         "icon": "lananhshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lan Anh Shop",
         "instruction": "On the left, go straight 65m, the shop on the right.",
         "fileName": "lananhshop.mp4",
@@ -329,7 +329,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnamese Specialities",
         "instruction": "Turn left, go straight 40m, then turn right, go down the stairs, the store is located in the airport lobby, doors 4-5. Or turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "vietnamspecial.mp4",
@@ -343,7 +343,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lucky Gift Shop",
         "instruction": "Turn right, go straight 65m, the store is on the left; or turn left, go straight 65m, the store is on the right.",
         "fileName": "luckygiftshop.mp4",
@@ -357,7 +357,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Nha Trang Specialities",
         "instruction": "Turn right, go straight 55m, the store is on the right.",
         "fileName": "nhatrangspecial.mp4",
@@ -371,7 +371,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Gourmet Viet",
         "instruction": "Turn right, go straight 50m, the store is on the right.",
         "fileName": "gourmetviet.mp4",
@@ -385,7 +385,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Happy Shopping",
         "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "happyshopping.mp4",
@@ -404,7 +404,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Burger King",
         "instruction": "Turn right, go straight 100m, the store is on the left.",
         "fileName": "burgerking.mp4",
@@ -422,7 +422,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Presto Food and Drink",
         "instruction": "Turn left, go straight 105m, shop on the left.",
         "fileName": "presto.mp4",
@@ -436,7 +436,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Yen Restaurant",
         "instruction": "Turn left, go straight 130m, the store is on the right.",
         "fileName": "yenrestaurant.mp4",
@@ -454,7 +454,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Food and Drink",
         "instruction": "Turn right, go straight 105m, shop on the right.",
         "fileName": "foodanddrink.mp4",
@@ -472,7 +472,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Food & Drink",
         "instruction": "Turn right, go straight 130m, the store is on the left.",
         "fileName": "vietnamfvd.mp4",
@@ -490,7 +490,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Your Vietnam",
         "instruction": "Turn right, go straight 130m, then turn right, go down the stairs, the store is located in the departure lounge, doors 8-9-10.",
         "fileName": "yourvietnam.mp4",
@@ -508,7 +508,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Puro Gusto",
         "instruction": "Turn right, go straight 100m, the store is on the right.",
         "fileName": "purogusto.mp4",
@@ -533,7 +533,7 @@
       {
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Coffee",
         "instruction": "Turn left, go straight 100m, the shop is on the left",
         "fileName": "coffee.mp4",
@@ -554,7 +554,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Star Cafe",
         "instruction": "Turn right, go straight 40m, then turn left, down the stairs; or turn left, go straight 40m, then turn right, down the stairs. The store is located in the airport lobby, doors 4-5 and doors 6-7",
         "fileName": "starcafe.mp4",
@@ -579,7 +579,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Crystal Jade",
         "instruction": "Turn left, go straight 100m, the store is on the right.",
         "fileName": "crystaljade.mp4",
@@ -597,7 +597,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Taha-ka",
         "instruction": "Turn right, go straight 130m, then turn right, down the stairs. The store is located in the airport lobby, door number 1-2-3.",
         "fileName": "tahaka.mp4",

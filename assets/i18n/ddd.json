@@ -5,7 +5,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "",
+        "actions": "",
         "name": "Lotte Duty Free – Mỹ phẩm",
         "instruction": "Phía sau, đi thẳng 6m.",
         "fileName": "lottedutyfree.behind.mp4",
@@ -26,7 +26,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lotte Duty Free – Thời trang",
         "instruction": "Rẽ phải, đi thẳng 30m, cửa hàng nằm bên trái.",
         "fileName": "lottedutyfree.right.mp4",
@@ -47,7 +47,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lotte Duty Free – Đồng hồ & Trang sức",
         "instruction": "Rẽ trái, đi thẳng 30m, cửa hàng nằm bên phải.",
         "fileName": "lottedutyfree.left.mp4",
@@ -68,7 +68,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Long Beach Pearl",
         "instruction": "Bên phải, đi thẳng 65m, cửa hàng bên tay trái.",
         "fileName": "longbeachpearl.mp4",
@@ -82,7 +82,7 @@
       {
         "icon": "mengallery.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Men's Gallery",
         "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
         "fileName": "qmart.mp4",
@@ -96,7 +96,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnam's Delight",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái.",
         "fileName": "vietnamsdelight.mp4",
@@ -110,7 +110,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "19 islands",
         "instruction": "Rẽ phải, đi thẳng 40m, rẽ phải, đi thêm 7m, xuống cầu thang, đi thêm 30m.",
         "fileName": "19islands.mp4",
@@ -124,7 +124,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Viet House",
         "instruction": "Rẽ phải, đi thẳng 40m, rẽ trái đi thêm 7m, đi xuống cầu thang, đi thêm 30m.",
         "fileName": "viethouse.mp4",
@@ -138,7 +138,7 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Souvenir and Special Food Shop",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái.",
         "fileName": "souvenirfoodshop.mp4",
@@ -152,7 +152,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Relaxing House Spa",
         "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ  phải, đi thẳng thêm 10m.",
         "fileName": "relaxinghousespa.mp4",
@@ -166,7 +166,7 @@
       {
         "icon": "premiermart.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Premier Mart",
         "instruction": "Rẽ phải, đi thẳng 75m, cửa hàng nằm bên phải.",
         "fileName": "premiermart.mp4",
@@ -180,7 +180,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Made in Vietnam",
         "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
         "fileName": "madeinvietnam.mp4",
@@ -194,7 +194,7 @@
       {
         "icon": "cmcleather.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "CMC Leather",
         "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
         "fileName": "cmcleather.mp4",
@@ -208,7 +208,7 @@
       {
         "icon": "vietmesegiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnamese Gift Shop",
         "instruction": "Rẽ phải, đi thẳng 55m, cửa hàng nằm bên trái.",
         "fileName": "vietmesegiftshop.mp4",
@@ -222,7 +222,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Yen Store",
         "instruction": "Rẽ phải, đi thẳng 85m, cửa hàng nằm bên phải hoặc Rẽ trái, đi thẳng 85m, cửa hàng nằm bên trái.",
         "fileName": "yenstore.mp4",
@@ -236,7 +236,7 @@
       {
         "icon": "lananhshop.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Lan Anh Shop",
         "instruction": "Bên trái, đi thẳng 65m, cửa hàng bên tay phải.",
         "fileName": "lananhshop.mp4",
@@ -250,7 +250,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Vietnamese Specialities",
         "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy.",
         "fileName": "vietnamspecial.mp4",
@@ -264,7 +264,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Lucky Gift Shop",
         "instruction": "Rẽ phải, đi thẳng 65m, cửa hàng nằm bên phải - hoặc - Rẽ trái, đi thẳng 65m, cửa hàng nằm bên trái.",
         "fileName": "luckygiftshop.mp4",
@@ -278,7 +278,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Nha Trang Specialities",
         "instruction": "Rẽ trái, đi thẳng 55m, cửa hàng nằm bên phải.",
         "fileName": "nhatrangspecial.mp4",
@@ -292,7 +292,7 @@
       {
         "icon": "tobarosouvenir.jpg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Tobaco and Souvenir",
         "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
         "fileName": "gourmetviet.mp4",
@@ -306,7 +306,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Happy Shopping",
         "instruction": "Bên phải, đi thẳng 130m, rẽ trái, đi thêm 5m, xuống thang máy",
         "fileName": "happyshopping.mp4",
@@ -319,7 +319,7 @@
       },
       {
         "icon": "vietinbank.png",
-        "direction": "right",
+        "actions": "right",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
         "fileName": "medical.mp4",
         "instruction": "Rẽ Phải, đi thẳng 40m, rẽ phải, đi thêm 7m, bên tay phải.",
@@ -333,7 +333,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Burger King",
         "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên trái.",
         "fileName": "burgerking.mp4",
@@ -351,7 +351,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Presto Food and Drink",
         "instruction": "Bên phải, đi thẳng 105m, cửa hàng bên tay trái.",
         "fileName": "presto.mp4",
@@ -365,7 +365,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Yen Restaurant",
         "instruction": "Bên phải, đi thẳng 130m, cửa hàng bên tay phải.",
         "fileName": "yenrestaurant.mp4",
@@ -383,7 +383,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Food and Drink",
         "instruction": "Rẽ trái, đi thẳng 105m, cửa hàng nằm bên phải.",
         "fileName": "foodanddrink.mp4",
@@ -401,7 +401,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Vietnamese Food & Drink",
         "instruction": "Rẽ trái, đi thẳng 130m, cửa hàng nằm bên trái.",
         "fileName": "vietnamfvd.mp4",
@@ -419,7 +419,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Your Vietnam",
         "instruction": "Rẽ trái, đi thẳng 130m, rẽ phải đi thêm 5m, xuống cầu thang.",
         "fileName": "yourvietnam.mp4",
@@ -437,7 +437,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Puro Gusto",
         "instruction": "Rẽ trái, đi thẳng 100m, cửa hàng nằm bên phải.",
         "fileName": "purogusto.mp4",
@@ -462,7 +462,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Star Cafe",
         "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay trái.",
         "fileName": "starcafe.mp4",
@@ -487,7 +487,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "direction": "left",
+        "actions": "left",
         "name": "Crystal Jade",
         "instruction": "Bên phải, đi thẳng 100m, cửa hàng bên tay phải.",
         "fileName": "crystaljade.mp4",
@@ -505,7 +505,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "direction": "right",
+        "actions": "right",
         "name": "Taha-ka",
         "instruction": "Turn left, go straight for 130m, turn right for another 5m, go down the stairs.",
         "fileName": "tahaka.mp4",
