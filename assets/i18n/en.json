@@ -1,12 +1,12 @@
 {
   "directions": {
-    "label.navigate":"Navigate",
-    "label.menu":"Menu",
+    "label.navigate": "Navigate",
+    "label.menu": "Menu",
     "navbar.title": "Where you want to go?",
     "places.group1": [
       {
         "icon": "",
-        "actions": "talk1,shy,talk2",
+        "actions": "left",
         "name": "Gate 1, 2, 3",
         "fileName": "gate123.mp4",
         "instruction": "Go straight to the left 125m, then turn left for another 5m, the door down is on the left."

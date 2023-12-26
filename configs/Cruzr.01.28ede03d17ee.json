@@ -1,5 +1,5 @@
 {
-  "version": 3.5,
+  "version": 3.643,
   "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
   "motion": {
     "left": "131e8fc923adc43dc9490a94db820e7b1699844173157",
@@ -38,7 +38,10 @@
     "bgairport.jpeg",
     "nologo.png",
     "vietinbank.png",
-    "tahaka.png"
+    "tahaka.png",
+    "coffee.png",
+    "qmart.jpg",
+    "gourmetviet.png"
   ],
   "videos": [
     "gate123.mp4",
@@ -83,6 +86,7 @@
     "crystaljade.mp4",
     "burgerking.mp4",
     "vietinbank.mp4",
-    "tahaka.mp4"
+    "tahaka.mp4",
+    "coffee.mp4"
   ]
 }
