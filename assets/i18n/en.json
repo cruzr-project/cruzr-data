@@ -48,7 +48,7 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "left",
+        "actions": "right",
         "name": "Value Added Tax Refund Counter - Vietinbank",
         "fileName": "medical.mp4",
         "instruction": "Go straight left for 30m, the tax refund counter is on the right."
@@ -175,7 +175,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Long Beach Pearl",
         "instruction": "Turn left, go straight 65m, shop on the left.",
         "fileName": "longbeachpearl.mp4",
@@ -189,7 +189,7 @@
       {
         "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Qmart",
         "instruction": "Turn left, go straight 130m, turn left, go down to the airport lobby (doors 1-2-3) or right, go straight 130m, turn right to go down to the airport lobby (gates 8- 9- 10).",
         "fileName": "qmart.mp4",
@@ -217,7 +217,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "19 islands",
         "instruction": "Turn left, go straight 40m, turn right, go another 7m, go down the stairs, go another 30m.",
         "fileName": "19islands.mp4",
@@ -231,7 +231,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Viet House",
         "instruction": "Turn right, go straight 40m, turn left, go another 7m, go down the stairs, go straight another 30m",
         "fileName": "viethouse.mp4",
@@ -245,7 +245,7 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Souvenir and Special Food Shop",
         "instruction": "Turn left, go straight 50m, the store is on the left",
         "fileName": "souvenirfoodshop.mp4",
@@ -259,7 +259,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Relaxing House Spa",
         "instruction": "Turn left, go straight 40m, then turn right, go straight another 10m.",
         "fileName": "relaxinghousespa.mp4",
@@ -274,7 +274,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Made in Vietnam",
         "instruction": "Turn right, go straight 40m, then turn left and go 7m, down the stairs, the store is on the right. Or turn right, go straight 130m, the store is on the left",
         "fileName": "madeinvietnam.mp4",
@@ -303,7 +303,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Yen Store",
         "instruction": "Turn right, go straight 85m, the store is on the left; or turn left, go straight 85m, the store is on the right.",
         "fileName": "yenstore.mp4",
@@ -345,7 +345,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Lucky Gift Shop",
         "instruction": "Turn right, go straight 65m, the store is on the left; or turn left, go straight 65m, the store is on the right.",
         "fileName": "luckygiftshop.mp4",
@@ -359,7 +359,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Nha Trang Specialities",
         "instruction": "Turn right, go straight 55m, the store is on the right.",
         "fileName": "nhatrangspecial.mp4",
@@ -387,7 +387,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Happy Shopping",
         "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "happyshopping.mp4",
@@ -406,7 +406,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Burger King",
         "instruction": "Turn right, go straight 100m, the store is on the left.",
         "fileName": "burgerking.mp4",
@@ -424,7 +424,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Presto Food and Drink",
         "instruction": "Turn left, go straight 105m, shop on the left.",
         "fileName": "presto.mp4",
@@ -438,7 +438,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Yen Restaurant",
         "instruction": "Turn left, go straight 130m, the store is on the right.",
         "fileName": "yenrestaurant.mp4",
@@ -456,7 +456,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Food and Drink",
         "instruction": "Turn right, go straight 105m, shop on the right.",
         "fileName": "foodanddrink.mp4",
@@ -474,7 +474,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Vietnamese Food & Drink",
         "instruction": "Turn right, go straight 130m, the store is on the left.",
         "fileName": "vietnamfvd.mp4",
@@ -492,7 +492,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Your Vietnam",
         "instruction": "Turn right, go straight 130m, then turn right, go down the stairs, the store is located in the departure lounge, doors 8-9-10.",
         "fileName": "yourvietnam.mp4",
@@ -510,7 +510,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Puro Gusto",
         "instruction": "Turn right, go straight 100m, the store is on the right.",
         "fileName": "purogusto.mp4",
@@ -535,7 +535,7 @@
       {
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Coffee",
         "instruction": "Turn left, go straight 100m, the shop is on the left",
         "fileName": "coffee.mp4",
@@ -556,7 +556,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Star Cafe",
         "instruction": "Turn right, go straight 40m, then turn left, down the stairs; or turn left, go straight 40m, then turn right, down the stairs. The store is located in the airport lobby, doors 4-5 and doors 6-7",
         "fileName": "starcafe.mp4",
@@ -581,7 +581,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Crystal Jade",
         "instruction": "Turn left, go straight 100m, the store is on the right.",
         "fileName": "crystaljade.mp4",
@@ -599,7 +599,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Taha-ka",
         "instruction": "Turn right, go straight 130m, then turn right, down the stairs. The store is located in the airport lobby, door number 1-2-3.",
         "fileName": "tahaka.mp4",

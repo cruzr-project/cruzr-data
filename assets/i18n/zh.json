@@ -48,7 +48,7 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "left",
+        "actions": "right",
         "name": "增值税柜台 - Vietinbank",
         "fileName": "medical.mp4",
         "instruction": "向左直行30m，退税柜台在右侧。"
@@ -154,7 +154,7 @@
       {
         "icon": "longbeachpearl.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Long Beach Pearl",
         "instruction": "左转，直行65m，左侧商店",
         "fileName": "longbeachpearl.mp4",
@@ -168,7 +168,7 @@
       {
         "icon": "qmart.jpg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Qmart",
         "instruction": "左转，直行130m，左转，下至机场大厅（1-2-3号门）或右转，直行130m，右转下至机场大厅（8-9-10号门）。",
         "fileName": "qmart.mp4",
@@ -196,7 +196,7 @@
       {
         "icon": "19islands.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "19 islands",
         "instruction": "左转，直走40m，右转，再走7m，下楼梯，再走30m。",
         "fileName": "19islands.mp4",
@@ -210,7 +210,7 @@
       {
         "icon": "viethouse.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Viet House",
         "instruction": "右转，直走40m，左转，再走7m，下楼梯，再直走30m",
         "fileName": "viethouse.mp4",
@@ -224,7 +224,7 @@
       {
         "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Souvenir and Special Food Shop",
         "instruction": "左转，直行50m，商店在左边",
         "fileName": "souvenirfoodshop.mp4",
@@ -238,7 +238,7 @@
       {
         "icon": "relaxinghousespa.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Relaxing House Spa",
         "instruction": "左转，直行40m，然后右转，再直行10m",
         "fileName": "relaxinghousespa.mp4",
@@ -253,7 +253,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Made in Vietnam",
         "instruction": "右转直走40m，再左转7m，下楼梯，商店就在右边。 或者右转，直走130m，商店在左边",
         "fileName": "madeinvietnam.mp4",
@@ -282,7 +282,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Yen Store",
         "instruction": "右转，直行85m，商店在左边； 或左转，直走85m，商店就在右边。",
         "fileName": "yenstore.mp4",
@@ -324,7 +324,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,right",
         "name": "Lucky Gift Shop",
         "instruction": "右转，直行65m，商店在左边； 或左转，直走65m，商店就在右边。",
         "fileName": "luckygiftshop.mp4",
@@ -338,7 +338,7 @@
       {
         "icon": "nhatrangspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Nha Trang Specialities",
         "instruction": "右转，直走55m，商店就在右边。",
         "fileName": "nhatrangspecial.mp4",
@@ -366,7 +366,7 @@
       {
         "icon": "happyshopping.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Happy Shopping",
         "instruction": "左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
         "fileName": "happyshopping.mp4",
@@ -385,7 +385,7 @@
       {
         "icon": "burgerking.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Burger King",
         "instruction": "右转，直走100m，商店就在左边。",
         "fileName": "burgerking.mp4",
@@ -403,7 +403,7 @@
       {
         "icon": "presto.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Presto Food and Drink",
         "instruction": "左转，直行105m，在左边购物。",
         "fileName": "presto.mp4",
@@ -417,7 +417,7 @@
       {
         "icon": "yenrestaurant.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Yen Restaurant",
         "instruction": "左转，直走130m，商店就在右边。",
         "fileName": "yenrestaurant.mp4",
@@ -435,7 +435,7 @@
       {
         "icon": "foodanddrink.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Food and Drink",
         "instruction": "右转，直行105m，店铺在右侧。",
         "fileName": "foodanddrink.mp4",
@@ -453,7 +453,7 @@
       {
         "icon": "vietnamfvd.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Vietnamese Food & Drink",
         "instruction": "右转，直行130m，商店在左边。",
         "fileName": "vietnamfvd.mp4",
@@ -471,7 +471,7 @@
       {
         "icon": "yourvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Your Vietnam",
         "instruction": "右转，直行130m，然后右转，下楼梯，商店位于出发休息室，门8-9-10。",
         "fileName": "yourvietnam.mp4",
@@ -489,7 +489,7 @@
       {
         "icon": "purogusto.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Puro Gusto",
         "instruction": "右转，直走100m，商店就在右边。",
         "fileName": "purogusto.mp4",
@@ -507,7 +507,7 @@
       {
         "icon": "coffee.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "咖啡",
         "instruction": "左转，直行100m，商店在左边",
         "fileName": "coffee.mp4",
@@ -521,7 +521,7 @@
       {
         "icon": "starcafe.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Star Cafe",
         "instruction": "右转，直行40m，然后左转，下楼梯； 或左转，直行40m，然后右转，下楼梯。 商店位于机场大厅，4-5号门和6-7号门",
         "fileName": "starcafe.mp4",
@@ -539,7 +539,7 @@
       {
         "icon": "crystaljade.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left",
         "name": "Crystal Jade",
         "instruction": "左转，直走100m，商店就在右边。",
         "fileName": "crystaljade.mp4",
@@ -557,7 +557,7 @@
       {
         "icon": "tahaka.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Taha-ka",
         "instruction": "右转，直行130m，然后右转，下楼梯。 商店位于机场大厅，门号1-2-3。",
         "fileName": "tahaka.mp4",
