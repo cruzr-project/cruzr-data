@@ -376,6 +376,20 @@
             "menu": ["기념품", "베트남 특선 요리"]
           }
         ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "좌회전 후 130m 직진 후 좌회전 후 계단을 내려가면 공항 로비 1-2-3번 문에 매장이 있습니다.",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "기념품",
+            "menu": ["기념품"]
+          }
+        ]
       }
     ]
   },

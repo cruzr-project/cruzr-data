@@ -397,6 +397,20 @@
             "menu": ["Souvenir", "VietNam Specialities"]
           }
         ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "Souvenir",
+            "menu": ["Local souvenir products."]
+          }
+        ]
       }
     ]
   },

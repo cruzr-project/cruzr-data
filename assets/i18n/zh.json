@@ -376,6 +376,20 @@
             "menu": ["纪念品", "越南特产"]
           }
         ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "纪念品",
+            "menu": ["纪念品"]
+          }
+        ]
       }
     ]
   },

@@ -396,6 +396,20 @@
             "menu": ["Đồ lưu niệm", "Đặc sản Việt Nam"]
           }
         ]
+      },
+      {
+        "icon": "happyshopping.png",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Ohla Taka Mall",
+        "instruction": "Rẽ trái, đi thẳng 130m, sau đó rẽ trái, xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
+        "fileName": "ohlatakamall.mp4",
+        "categories": [
+          {
+            "name": "Đồ lưu niệm",
+            "menu": ["Các sản phẩm quà lưu niệm của địa phương."]
+          }
+        ]
       }
     ]
   },
