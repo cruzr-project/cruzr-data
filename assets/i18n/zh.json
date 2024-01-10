@@ -48,9 +48,9 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "right",
+        "actions": "left",
         "name": "增值税柜台 - Vietinbank",
-        "fileName": "medical.mp4",
+        "fileName": "vietinbank.mp4",
         "instruction": "向左直行30m，退税柜台在右侧。"
       }
     ],
@@ -182,7 +182,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Vietnam's Delight",
         "instruction": "右转，直行50m，商店在左边； 或者左转，直走50m，商店就在右边。",
         "fileName": "vietnamsdelight.mp4",
@@ -253,7 +253,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Made in Vietnam",
         "instruction": "右转直走40m，再左转7m，下楼梯，商店就在右边。 或者右转，直走130m，商店在左边",
         "fileName": "madeinvietnam.mp4",
@@ -282,7 +282,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Yen Store",
         "instruction": "右转，直行85m，商店在左边； 或左转，直走85m，商店就在右边。",
         "fileName": "yenstore.mp4",
@@ -310,7 +310,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,left",
         "name": "Vietnamese Specialities",
         "instruction": "左转，直走40m，然后右转，下楼梯，商店位于机场大厅，4-5号门。 或者左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
         "fileName": "vietnamspecial.mp4",
@@ -324,7 +324,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Lucky Gift Shop",
         "instruction": "右转，直行65m，商店在左边； 或左转，直走65m，商店就在右边。",
         "fileName": "luckygiftshop.mp4",

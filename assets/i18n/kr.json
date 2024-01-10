@@ -48,8 +48,8 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "right",
-        "fileName": "medical.mp4",
+        "actions": "left",
+        "fileName": "vietinbank.mp4",
         "name": "부가가치세 환급 카운터 - Vietinbank",
         "instruction": "좌회전 30m 직진하시면 오른쪽에 세금환급 카운터가 있습니다."
       }
@@ -182,7 +182,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Vietnam's Delight",
         "instruction": "우회전 후 50m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 50m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "vietnamsdelight.mp4",
@@ -253,7 +253,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Made in Vietnam",
         "instruction": "우회전하여 40m 직진 후 좌회전하여 7m 이동 후 계단을 내려가면 오른쪽에 매장이 있습니다. 또는 우회전 후 130m 직진하시면 왼편에 매장이 있습니다.",
         "fileName": "madeinvietnam.mp4",
@@ -282,7 +282,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Yen Store",
         "instruction": "우회전 후 85m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 85m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "yenstore.mp4",
@@ -310,7 +310,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,left",
         "name": "Vietnamese Specialities",
         "instruction": "좌회전 후 40m 직진 후 우회전하여 계단을 내려가면 공항 로비 4~5번 문에 매장이 있습니다. 또는 좌회전 후 130m 직진 후 좌회전하여 계단을 내려가면 공항 로비 1-2-3번 문에 매장이 있습니다.",
         "fileName": "vietnamspecial.mp4",
@@ -324,7 +324,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Lucky Gift Shop",
         "instruction": "우회전 후 65m 직진하면 왼편에 매장이 있습니다. 또는 좌회전 후 65m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "luckygiftshop.mp4",

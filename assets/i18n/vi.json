@@ -191,7 +191,7 @@
         "background": "bgairport.jpeg",
         "actions": "left,right",
         "name": "Qmart",
-        "instruction": "Rẽ trái, đi thẳng 130m, rẽ trái, đi xuống sảnh chờ cửa ra tàu bay (cửa số 1-2-3) hoặc bên phải, đi thẳng 130m, rẽ phải đi xuống sảnh chờ cửa ra tàu bay (cửa số 8-9- 10)",
+        "instruction": "Rẽ trái, đi thẳng 130m, rẽ trái, đi xuống sảnh chờ cửa ra tàu bay (cửa số 1-2-3) hoặc bên phải, đi thẳng 130m, rẽ phải đi xuống sảnh chờ cửa ra tàu bay (cửa số 8-9-10)",
         "fileName": "qmart.mp4",
         "categories": [
           {
@@ -203,7 +203,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Vietnam's Delight",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm bên trái; hoặc rẽ trái, đi thẳng 50m, cửa hàng nằm bên phải.",
         "fileName": "vietnamsdelight.mp4",
@@ -243,12 +243,12 @@
         ]
       },
       {
-        "icon": "Đồ lưu niệmfoodshop.png",
+        "icon": "souvenirfoodshop.png",
         "background": "bgairport.jpeg",
         "actions": "left",
-        "name": "Đồ lưu niệm and Special Food Shop",
+        "name": "Đồ lưu niệm và đặc sản",
         "instruction": "Rẽ trái, đi thẳng 50m, cửa hàng nằm bên trái",
-        "fileName": "Đồ lưu niệmfoodshop.mp4",
+        "fileName": "souvenirfoodshop.mp4",
         "categories": [
           {
             "name": "Đồ lưu niệm",
@@ -273,7 +273,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "rigth",
+        "actions": "right,left",
         "name": "Made in Vietnam",
         "instruction": "Rẽ phải, đi thẳng 40m, sau đó rẽ trái đi thêm 7m, xuống cầu thang, cửa hàng nằm ở phía tay phải. Hoặc rẽ phải, đi thẳng 130m, cửa hàng nằm ở bên trái",
         "fileName": "madeinvietnam.mp4",
@@ -302,7 +302,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Yen Store",
         "instruction": "Rẽ phải, đi thẳng 85m, cửa hàng nằm bên trái; hoặc rẽ trái, đi thẳng 85m, cửa hàng nằm bên phải.",
         "fileName": "yenstore.mp4",
@@ -330,7 +330,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,left",
         "name": "Vietnamese Specialities",
         "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 4-5. Hoặc rẽ trái , đi thẳng 130m, sau đó rẽ trái, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
         "fileName": "vietnamspecial.mp4",
@@ -344,7 +344,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Lucky Gift Shop",
         "instruction": "Rẽ phải, đi thẳng 65m, cửa hàng nằm ở bên trái; hoặc rẽ trái, đi thẳng 65m, cửa hàng nằm ở bên phải.",
         "fileName": "luckygiftshop.mp4",

@@ -48,9 +48,9 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "right",
+        "actions": "left",
         "name": "Value Added Tax Refund Counter - Vietinbank",
-        "fileName": "medical.mp4",
+        "fileName": "vietinbank.mp4",
         "instruction": "Go straight left for 30m, the tax refund counter is on the right."
       }
     ],
@@ -203,7 +203,7 @@
       {
         "icon": "vietnamsdelight.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Vietnam's Delight",
         "instruction": "Turn right, go straight 50m, the store is on the left; or turn left, go straight 50m, the store is on the right.",
         "fileName": "vietnamsdelight.mp4",
@@ -274,7 +274,7 @@
       {
         "icon": "madeinvietnam.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "right,left",
         "name": "Made in Vietnam",
         "instruction": "Turn right, go straight 40m, then turn left and go 7m, down the stairs, the store is on the right. Or turn right, go straight 130m, the store is on the left",
         "fileName": "madeinvietnam.mp4",
@@ -303,7 +303,7 @@
       {
         "icon": "yenstore.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Yen Store",
         "instruction": "Turn right, go straight 85m, the store is on the left; or turn left, go straight 85m, the store is on the right.",
         "fileName": "yenstore.mp4",
@@ -331,7 +331,7 @@
       {
         "icon": "vietnamspecial.png",
         "background": "bgairport.jpeg",
-        "actions": "right",
+        "actions": "left,left",
         "name": "Vietnamese Specialities",
         "instruction": "Turn left, go straight 40m, then turn right, go down the stairs, the store is located in the airport lobby, doors 4-5. Or turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
         "fileName": "vietnamspecial.mp4",
@@ -345,7 +345,7 @@
       {
         "icon": "luckygiftshop.png",
         "background": "bgairport.jpeg",
-        "actions": "left,right",
+        "actions": "right,left",
         "name": "Lucky Gift Shop",
         "instruction": "Turn right, go straight 65m, the store is on the left; or turn left, go straight 65m, the store is on the right.",
         "fileName": "luckygiftshop.mp4",
