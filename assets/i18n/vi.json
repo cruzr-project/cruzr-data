@@ -112,7 +112,7 @@
       {
         "icon": "lottedutyfree.jpeg",
         "background": "bgairport.jpeg",
-        "actions": "",
+        "actions": "forward",
         "name": "Lotte Duty Free – Mỹ phẩm",
         "instruction": "Đi thẳng, phía trước 6m. ",
         "fileName": "lottedutyfree.behind.mp4",
