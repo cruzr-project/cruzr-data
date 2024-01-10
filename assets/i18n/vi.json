@@ -48,9 +48,9 @@
       },
       {
         "icon": "vietinbank.png",
-        "actions": "right",
+        "actions": "left",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
-        "fileName": "medical.mp4",
+        "fileName": "vietinbank.mp4",
         "instruction": "Đi thẳng về phía bên trái 30m, quầy hoàn thuế nằm ở bên phải."
       }
     ],
