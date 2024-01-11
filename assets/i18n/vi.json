@@ -1,7 +1,7 @@
 {
   "directions": {
-    "label.navigate":"Chỉ đường",
-    "label.menu":"Menu",
+    "label.navigate": "Chỉ đường",
+    "label.menu": "Menu",
     "navbar.title": "Bạn muốn đến đâu?",
     "places.group1": [
       {
@@ -332,7 +332,7 @@
         "background": "bgairport.jpeg",
         "actions": "left,left",
         "name": "Vietnamese Specialities",
-        "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 4-5. Hoặc rẽ trái , đi thẳng 130m, sau đó rẽ trái, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
+        "instruction": "Rẽ trái, đi thẳng 40m, sau đó rẽ phải, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 4-5. Hoặc rẽ trái, đi thẳng 130m, sau đó rẽ trái, đi xuống cầu thang, cửa hàng nằm ở sảnh chờ ra tàu bay cửa số 1-2-3.",
         "fileName": "vietnamspecial.mp4",
         "categories": [
           {
@@ -375,7 +375,7 @@
         "actions": "left",
         "name": "Gourmet Viet",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm ở bên phải.",
-        "fileName": "tobaroĐồ lưu niệm.mp4",
+        "fileName": "gourmetviet.mp4",
         "categories": [
           {
             "name": "Đồ lưu niệm",
