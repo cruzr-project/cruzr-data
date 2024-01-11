@@ -1,9 +1,11 @@
 {
-  "version": 3.647,
+  "version": 3.7,
   "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
+  "hashkey": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
   "motion": {
     "left": "131e8fc923adc43dc9490a94db820e7b1699844173157",
-    "right": "8dbf77537dbf9ea272a80fcd1a543b7b1699844278575"
+    "right": "8dbf77537dbf9ea272a80fcd1a543b7b1699844278575",
+    "forward": "hug"
   },
   "images": [
     "presto.png",
@@ -41,7 +43,9 @@
     "tahaka.png",
     "coffee.png",
     "qmart.jpg",
-    "gourmetviet.png"
+    "gourmetviet.png",
+    "victoriasecret.jpeg",
+    "ohlatakamall.png"
   ],
   "videos": [
     "gate123.mp4",
@@ -87,6 +91,8 @@
     "burgerking.mp4",
     "vietinbank.mp4",
     "tahaka.mp4",
-    "coffee.mp4"
+    "coffee.mp4",
+    "ohlatakamall.mp4",
+    "victoriasecret.mp4"
   ]
 }
