@@ -1,5 +1,5 @@
 {
-  "version": 3.651,
+  "version": 3.66,
   "languages": ["en.json", "vi.json", "zh.json", "kr.json"],
   "motion": {
     "left": "10d3827ebe3eec6f5db3f0cc6ebac7461700283573473",
@@ -42,7 +42,9 @@
     "tahaka.png",
     "coffee.png",
     "qmart.jpg",
-    "gourmetviet.png"
+    "gourmetviet.png",
+    "victoriasecret.jpeg",
+    "ohlatakamall.png"
   ],
   "videos": [
     "gate123.mp4",
@@ -88,6 +90,8 @@
     "burgerking.mp4",
     "vietinbank.mp4",
     "tahaka.mp4",
-    "coffee.mp4"
+    "coffee.mp4",
+    "ohlatakamall.mp4",
+    "victoriasecret.mp4"
   ]
 }

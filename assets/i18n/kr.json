@@ -1,7 +1,7 @@
 {
   "directions": {
-    "label.navigate":"길 안내",
-    "label.menu":"메뉴",
+    "label.navigate": "길 안내",
+    "label.menu": "메뉴",
     "navbar.title": "어디로 가시겠어요?",
     "places.group1": [
       {
@@ -378,16 +378,30 @@
         ]
       },
       {
-        "icon": "happyshopping.png",
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "왼쪽으로 꺾고, 20미터 직진하면, 가게가 왼쪽에 있습니다",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "제품",
+            "menu": ["속옷", "여성복", "화장품"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
         "background": "bgairport.jpeg",
         "actions": "left",
         "name": "Ohla Taka Mall",
-        "instruction": "좌회전 후 130m 직진 후 좌회전 후 계단을 내려가면 공항 로비 1-2-3번 문에 매장이 있습니다.",
+        "instruction": "왼쪽으로 꺾고, 130미터 직진하면, 그 다음에 왼쪽으로 꺾고, 계단을 내려가면, 가게가 출발구 1-2-3에 있습니다.",
         "fileName": "ohlatakamall.mp4",
         "categories": [
           {
             "name": "기념품",
-            "menu": ["기념품"]
+            "menu": ["지역 기념품"]
           }
         ]
       }

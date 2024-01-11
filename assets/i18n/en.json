@@ -399,16 +399,30 @@
         ]
       },
       {
-        "icon": "happyshopping.png",
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "Turn left, walk straight for 20 meters, the store is on the left.",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "Products",
+            "menu": ["Underwear", "Women's clothing", "Cosmetics"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
         "background": "bgairport.jpeg",
         "actions": "left",
         "name": "Ohla Taka Mall",
-        "instruction": "Turn left, go straight 130m, then turn left, go down the stairs, the store is located in the airport lobby, door number 1-2-3.",
+        "instruction": "Turn left, walk straight for 130 meters, then turn left, go down the stairs, the store is located in the departure lounge, gate number 1-2-3.",
         "fileName": "ohlatakamall.mp4",
         "categories": [
           {
-            "name": "Souvenir",
-            "menu": ["Local souvenir products."]
+            "name": "Souvenirs",
+            "menu": ["Local souvenirs"]
           }
         ]
       }

@@ -398,7 +398,21 @@
         ]
       },
       {
-        "icon": "happyshopping.png",
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "Rẽ trái, đi thẳng 20m, cửa hàng nằm bên trái",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "Sản phẩm",
+            "menu": ["Nội y", "Quần áo phụ nữ", "Mỹ phẩm"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
         "background": "bgairport.jpeg",
         "actions": "left",
         "name": "Ohla Taka Mall",

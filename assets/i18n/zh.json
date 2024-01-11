@@ -378,16 +378,30 @@
         ]
       },
       {
-        "icon": "happyshopping.png",
+        "icon": "victoriasecret.jpeg",
+        "background": "bgairport.jpeg",
+        "actions": "left",
+        "name": "Victoria’s Secret",
+        "instruction": "向左转，直走20米，商店在左边",
+        "fileName": "victoriasecret.mp4",
+        "categories": [
+          {
+            "name": "产品",
+            "menu": ["内衣", "女装", "化妆品"]
+          }
+        ]
+      },
+      {
+        "icon": "ohlatakamall.png",
         "background": "bgairport.jpeg",
         "actions": "left",
         "name": "Ohla Taka Mall",
-        "instruction": "左转，直走130m，然后左转，下楼梯，商店位于机场大厅，门号1-2-3。",
+        "instruction": "向左转，直走130米，然后向左转，下楼梯，商店位于登机口1-2-3.",
         "fileName": "ohlatakamall.mp4",
         "categories": [
           {
             "name": "纪念品",
-            "menu": ["纪念品"]
+            "menu": ["地方纪念品"]
           }
         ]
       }
