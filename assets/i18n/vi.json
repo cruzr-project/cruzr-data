@@ -47,7 +47,7 @@
         "instruction": "Đi thẳng về phía bên trái 118m, Sun Coast Lounge nằm bên phải, ngay bên cạnh Crystal Jade Kitchen."
       },
       {
-        "icon": "vietinbank.png",
+        "icon": "",
         "actions": "left",
         "name": "Quầy Hoàn thuế giá trị gia tăng - Vietinbank",
         "fileName": "vietinbank.mp4",
@@ -107,7 +107,7 @@
     ]
   },
   "shopping": {
-    "navbar.title": "Shopping",
+    "navbar.title": "Mua sắm",
     "stores": [
       {
         "icon": "lottedutyfree.jpeg",

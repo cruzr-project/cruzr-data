@@ -47,7 +47,7 @@
         "instruction": "向右直走118m，Sun Coast Lounge 就在右边，在Crystal Jade Kitchen的旁边。"
       },
       {
-        "icon": "vietinbank.png",
+        "icon": "",
         "actions": "left",
         "name": "增值税柜台 - Vietinbank",
         "fileName": "vietinbank.mp4",

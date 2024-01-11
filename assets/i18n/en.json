@@ -47,7 +47,7 @@
         "instruction": "Sun Coast Lounge is located on the left, right next to Crystal Jade Kitchen."
       },
       {
-        "icon": "vietinbank.png",
+        "icon": "",
         "actions": "left",
         "name": "Value Added Tax Refund Counter - Vietinbank",
         "fileName": "vietinbank.mp4",
