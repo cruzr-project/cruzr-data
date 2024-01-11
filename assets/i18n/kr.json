@@ -352,7 +352,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Gourmet Viet",
         "instruction": "우회전 후 50m 직진하시면 오른쪽에 매장이 있습니다.",
         "fileName": "gourmetviet.mp4",

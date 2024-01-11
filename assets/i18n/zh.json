@@ -352,7 +352,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Gourmet Viet",
         "instruction": "右转，直走50m，商店就在右边。",
         "fileName": "gourmetviet.mp4",

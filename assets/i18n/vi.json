@@ -372,7 +372,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Gourmet Viet",
         "instruction": "Rẽ phải, đi thẳng 50m, cửa hàng nằm ở bên phải.",
         "fileName": "gourmetviet.mp4",

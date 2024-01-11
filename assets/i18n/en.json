@@ -373,7 +373,7 @@
       {
         "icon": "gourmetviet.png",
         "background": "bgairport.jpeg",
-        "actions": "left",
+        "actions": "right",
         "name": "Gourmet Viet",
         "instruction": "Turn right, go straight 50m, the store is on the right.",
         "fileName": "gourmetviet.mp4",
