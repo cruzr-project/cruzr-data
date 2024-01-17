@@ -521,7 +521,7 @@
         "background": "bgairport.jpeg",
         "actions": "right",
         "name": "Your Vietnam",
-        "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang, cửa hàng nằm ở phòng chờ ra tàu bay cửa số 8-9-10.",
+        "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang, cửa hàng nằm ở phòng chờ ra tàu bay cửa số 8, 9 và 10 .",
         "fileName": "yourvietnam.mp4",
         "categories": [
           {
@@ -628,7 +628,7 @@
         "background": "bgairport.jpeg",
         "actions": "right",
         "name": "Taha-ka",
-        "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang. Cửa hàng nằm ở sảnh chờ ra tàu bay, cửa số 1-2-3.",
+        "instruction": "Rẽ phải, đi thẳng 130m, sau đó rẽ phải, xuống cầu thang. Cửa hàng nằm ở sảnh chờ ra tàu bay, cửa số 8, 9 và 10 .",
         "fileName": "tahaka.mp4",
         "categories": [
           {
